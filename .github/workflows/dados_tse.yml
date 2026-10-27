@@ -31,10 +31,22 @@ jobs:
             https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_ATUAL.zip
           ls -lh perfil_eleitorado_ATUAL.zip
 
-      - name: Gerar CSV resumido
-        run: python scripts/preparar_dados.py perfil_eleitorado_ATUAL.zip
+      # O unzip do sistema entende mais formatos de compressão que o zipfile do Python
+      - name: Extrair o zip
+        run: |
+          mkdir -p bruto
+          unzip -o perfil_eleitorado_ATUAL.zip -d bruto 2>&1 | tee extracao.txt || 7z x -obruto -y perfil_eleitorado_ATUAL.zip
+          ls -lh bruto
 
+      - name: Gerar CSV resumido
+        run: |
+          mkdir -p dados
+          set -o pipefail
+          python scripts/preparar_dados.py "$(ls bruto/*.csv | head -1)" 2>&1 | tee dados/log_geracao.txt
+
+      # Salva também o log, mesmo se der erro, para dar para conferir sem login no Actions
       - name: Salvar no repositório
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

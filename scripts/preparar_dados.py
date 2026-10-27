@@ -67,24 +67,43 @@ def agrupar_idade(texto):
     return "70 anos ou mais"
 
 
-def main(caminho_zip):
-    with zipfile.ZipFile(caminho_zip) as z:
-        nome_csv = next(n for n in z.namelist() if n.lower().endswith(".csv"))
-        print("Lendo", nome_csv)
+def ler_em_blocos(f):
+    """Lê o CSV do TSE em pedaços (o arquivo é grande demais para ler de uma vez)."""
+    partes = []
+    data_geracao = None
+    for bloco in pd.read_csv(
+        f, sep=";", encoding="latin1", usecols=COLUNAS,
+        dtype=str, chunksize=1_000_000,
+    ):
+        data_geracao = data_geracao or bloco["DT_GERACAO"].iloc[0]
+        bloco["QT_ELEITORES_PERFIL"] = pd.to_numeric(bloco["QT_ELEITORES_PERFIL"])
+        partes.append(
+            bloco.groupby(["SG_UF", "DS_FAIXA_ETARIA", "DS_GRAU_ESCOLARIDADE"])["QT_ELEITORES_PERFIL"].sum()
+        )
+    return partes, data_geracao
 
-        partes = []
-        data_geracao = None
-        with z.open(nome_csv) as f:
-            # Lê em pedaços para não estourar a memória
-            for bloco in pd.read_csv(
-                f, sep=";", encoding="latin1", usecols=COLUNAS,
-                dtype=str, chunksize=1_000_000,
-            ):
-                data_geracao = data_geracao or bloco["DT_GERACAO"].iloc[0]
-                bloco["QT_ELEITORES_PERFIL"] = pd.to_numeric(bloco["QT_ELEITORES_PERFIL"])
-                partes.append(
-                    bloco.groupby(["SG_UF", "DS_FAIXA_ETARIA", "DS_GRAU_ESCOLARIDADE"])["QT_ELEITORES_PERFIL"].sum()
-                )
+
+def mostrar_cabecalho(abrir):
+    """Imprime as colunas do arquivo, para conferir se o TSE mudou o formato."""
+    with abrir() as f:
+        print("Cabeçalho:", f.readline().decode("latin1").strip())
+
+
+def main(caminho):
+    # Aceita o .zip do TSE ou o .csv já extraído
+    if caminho.lower().endswith(".zip"):
+        z = zipfile.ZipFile(caminho)
+        print("Conteúdo do zip:", z.namelist())
+        nome_csv = next(n for n in z.namelist() if n.lower().endswith(".csv"))
+        abrir = lambda: z.open(nome_csv)  # noqa: E731
+    else:
+        nome_csv = caminho
+        abrir = lambda: open(caminho, "rb")  # noqa: E731
+
+    print("Lendo", nome_csv)
+    mostrar_cabecalho(abrir)
+    with abrir() as f:
+        partes, data_geracao = ler_em_blocos(f)
 
     df = pd.concat(partes).groupby(level=[0, 1, 2]).sum().reset_index()
 
