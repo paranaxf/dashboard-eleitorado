@@ -24,10 +24,10 @@ ORDEM_IDADE = [
     "16 e 17 anos", "18 a 24 anos", "25 a 34 anos", "35 a 44 anos",
     "45 a 59 anos", "60 a 69 anos", "70 anos ou mais", "Não informado",
 ]
-# Escala de azul do mais claro (menos escolaridade) ao mais escuro; cinza = não informado
+# Escala ordenada (Viridis): roxo = menos escolaridade, amarelo = mais; cinza = não informado
 CORES = dict(zip(
     ORDEM_ESCOLARIDADE,
-    px.colors.sample_colorscale("Blues", [0.2 + 0.8 * i / 7 for i in range(8)]) + ["#9e9e9e"],
+    px.colors.sample_colorscale("Viridis", [i / 7 for i in range(8)]) + ["#9e9e9e"],
 ))
 
 
@@ -153,6 +153,8 @@ fig1 = px.bar(
     labels={"Total_Eleitores": "Total de eleitores", "Estado": ""},
     height=700,
 )
+fig1.update_traces(textposition="outside", textfont_size=12)
+fig1.update_layout(separators=",.")
 st.plotly_chart(fig1)
 
 top3 = por_estado.head(3)
@@ -193,8 +195,10 @@ fig2 = px.bar(
 )
 fig2.add_vline(
     x=media_brasil, line_dash="dash", line_color="gray",
-    annotation_text=f"Brasil: {pct(media_brasil)}", annotation_position="top",
+    annotation_text=f"Média geral: {pct(media_brasil)}", annotation_position="top",
 )
+fig2.update_traces(textposition="outside", textfont_size=12)
+fig2.update_layout(separators=",.")
 st.plotly_chart(fig2)
 
 topo = sup_estado.iloc[-1]
@@ -202,11 +206,11 @@ base = sup_estado.iloc[0]
 acima = int((sup_estado["Percentual"] > media_brasil).sum())
 st.markdown(f"""
 ### O que podemos observar?
-No Brasil, **{pct(media_brasil)}** dos eleitores declararam ter ensino superior completo.
+No eleitorado como um todo, **{pct(media_brasil)}** dos eleitores declararam ter ensino superior completo.
 A maior proporção está em **{topo['Estado']}** ({pct(topo['Percentual'])}) e a menor em
 **{base['Estado']}** ({pct(base['Percentual'])}) — uma diferença de
 **{f"{topo['Percentual'] - base['Percentual']:.1f}".replace(".", ",")} pontos percentuais**.
-{acima} dos {len(sup_estado)} estados ficam acima da média nacional (linha tracejada).
+{acima} das {len(sup_estado)} unidades da federação (26 estados + DF) ficam acima da média geral (linha tracejada).
 
 Os dados mostram **onde** essa proporção é maior ou menor, mas não explicam **por quê**.
 """)
@@ -216,9 +220,9 @@ Os dados mostram **onde** essa proporção é maior ou menor, mas não explicam 
 # ------------------------------------------------------------
 st.subheader("5. Como a escolaridade muda entre as faixas de idade?")
 
-opcoes = ["Brasil (todos)"] + sorted(df["Estado"].unique())
+opcoes = ["Todos os eleitores"] + sorted(df["Estado"].unique())
 escolha = st.selectbox("Escolha o recorte", opcoes)
-recorte = df if escolha == "Brasil (todos)" else df[df["Estado"] == escolha]
+recorte = df if escolha == "Todos os eleitores" else df[df["Estado"] == escolha]
 
 tabela = recorte.groupby(["Faixa_Etaria", "Escolaridade"], as_index=False)["Total_Eleitores"].sum()
 tabela["Percentual"] = (
@@ -235,6 +239,8 @@ fig3 = px.bar(
     labels={"Faixa_Etaria": "Faixa etária", "Percentual": "% dos eleitores da faixa"},
     hover_data={"Total_Eleitores": ":,", "Percentual": ":.1f"},
 )
+# Legenda na mesma ordem da pilha (de cima para baixo)
+fig3.update_layout(legend_traceorder="reversed", separators=",.")
 st.plotly_chart(fig3)
 
 
@@ -254,7 +260,7 @@ faixa_top_sup = max(sup_por_faixa, key=sup_por_faixa.get)
 baixa = ["Analfabeto", "Lê e escreve"]
 
 st.markdown(f"""
-### O que podemos observar? ({escolha})
+### O que podemos observar? — {escolha}
 A faixa com maior proporção de **superior completo** é a de **{faixa_top_sup}**
 ({pct(sup_por_faixa[faixa_top_sup])}). Entre os eleitores de **18 a 24 anos**, essa proporção é
 {pct(sup_por_faixa.get('18 a 24 anos', 0))}, e a escolaridade mais comum nessa faixa é
@@ -268,7 +274,8 @@ na faixa de 18 a 24 anos e {pct(parte('70 anos ou mais', baixa))} entre quem tem
 - O gráfico compara **gerações diferentes** hoje; não mostra a mesma pessoa ao longo da vida.
 - Quem tem 18 a 24 anos, em boa parte, ainda não teve tempo de concluir um curso superior,
   então compare essa faixa com cuidado.
-- A escolaridade é **informada pelo próprio eleitor** ao TSE.
+- A escolaridade vem do **cadastro eleitoral** (informada pelo eleitor), não de uma pesquisa como o
+  Censo do IBGE, e o arquivo não diz quando cada eleitor atualizou essa informação.
 - Os dados mostram associação entre idade e escolaridade, **não uma causa**.
 """)
 
@@ -283,7 +290,13 @@ escolaridade aparecia sempre com a mesma faixa etária — não dava para analis
 **Sugestão da IA:** trocar por dados oficiais do TSE ("Eleitorado – Atual") e resumir o arquivo
 original (milhões de linhas) somando os eleitores por estado, escolaridade e faixa etária.
 
-**Como verificamos:** conferimos se o total de eleitores do CSV bate com o total publicado pelo TSE
-e rodamos `pd.crosstab(df["Escolaridade"], df["Faixa_Etaria"])` para confirmar que agora todas as
-combinações aparecem.
+**O que precisou ser corrigido:** o script sugerido falhou na primeira execução, porque o TSE usa
+nomes de coluna diferentes dos esperados (`DS_GRAU_INSTRUCAO` e `QT_ELEITORES`). O erro foi
+encontrado lendo o cabeçalho do arquivo e o script foi ajustado.
+
+**Como verificamos:**
+- o total do CSV (158.765.458 eleitores) bate com o número divulgado pelo TSE para 2026
+  (mais de 158,7 milhões de eleitores aptos);
+- `pd.crosstab(df["Escolaridade"], df["Faixa_Etaria"])` mostra que agora toda escolaridade aparece em
+  toda faixa etária (só faltam algumas combinações com "Não informado", que é um grupo muito pequeno).
 """)

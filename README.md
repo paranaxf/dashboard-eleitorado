@@ -21,6 +21,19 @@ e gera `dados/eleitorado_tse.csv`. A data de geração informada pelo TSE fica e
 O workflow `.github/workflows/dados_tse.yml` baixa o arquivo do TSE e roda o script automaticamente
 (aba **Actions → Atualizar dados do TSE → Run workflow** para atualizar).
 
+**Conferência:** o CSV gerado soma **158.765.458 eleitores** (dados gerados pelo TSE em 01/10/2026),
+o que bate com os mais de 158,7 milhões de eleitores aptos divulgados pelo TSE para as eleições de 2026.
+
+## Principais resultados
+
+1. **SP** tem o maior eleitorado (34,1 milhões, 21,5% do total); SP, MG e RJ juntos somam 39,9%.
+2. **DF** tem a maior proporção de eleitores com superior completo (23,3%) e **MA** a menor (6,1%);
+   a média geral é 11,4%.
+3. A faixa de **35 a 44 anos** tem a maior proporção de superior completo (17,3%); analfabetos ou
+   eleitores que só leem e escrevem são 0,6% entre 18 e 24 anos e 33,4% entre quem tem 70 anos ou mais.
+
+Os números acima são da versão atual da base; o próprio app recalcula tudo a partir do CSV.
+
 ## Estrutura
 
 ```
@@ -28,6 +41,7 @@ app.py                       # o dashboard
 requirements.txt             # bibliotecas para o Streamlit Cloud
 dados/eleitorado_tse.csv     # base resumida (gerada a partir do TSE)
 dados/fonte.txt              # data de geração e total de eleitores
+dados/log_geracao.txt        # log da última geração (para conferir sem abrir o Actions)
 scripts/preparar_dados.py    # transforma o zip do TSE no CSV resumido
 ```
 
