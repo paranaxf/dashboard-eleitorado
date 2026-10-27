@@ -1,0 +1,43 @@
+name: Atualizar dados do TSE
+
+# Baixa o arquivo oficial do TSE, gera o CSV resumido e salva no repositório.
+# Roda quando o script muda ou manualmente (aba Actions > Run workflow).
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/preparar_dados.py
+      - .github/workflows/dados_tse.yml
+
+permissions:
+  contents: write
+
+jobs:
+  dados:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar pandas
+        run: pip install pandas
+
+      - name: Baixar arquivo oficial do TSE
+        run: |
+          curl -fL --retry 3 --retry-delay 10 -o perfil_eleitorado_ATUAL.zip \
+            https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_ATUAL.zip
+          ls -lh perfil_eleitorado_ATUAL.zip
+
+      - name: Gerar CSV resumido
+        run: python scripts/preparar_dados.py perfil_eleitorado_ATUAL.zip
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          git diff --cached --quiet || git commit -m "Atualiza dados do TSE"
+          git push
