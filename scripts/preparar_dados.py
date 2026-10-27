@@ -27,6 +27,13 @@ URL_FONTE = "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/pe
 
 COLUNAS = ["DT_GERACAO", "SG_UF", "DS_FAIXA_ETARIA", "DS_GRAU_ESCOLARIDADE", "QT_ELEITORES_PERFIL"]
 
+# O TSE já mudou o nome de algumas colunas entre versões do arquivo.
+# Aqui os nomes novos são traduzidos para os nomes usados no script.
+NOMES_ALTERNATIVOS = {
+    "DS_GRAU_INSTRUCAO": "DS_GRAU_ESCOLARIDADE",
+    "QT_ELEITORES": "QT_ELEITORES_PERFIL",
+}
+
 # Nomes mais legíveis para a escolaridade (chave sem acento e em maiúsculas)
 ESCOLARIDADE = {
     "ANALFABETO": "Analfabeto",
@@ -72,9 +79,14 @@ def ler_em_blocos(f):
     partes = []
     data_geracao = None
     for bloco in pd.read_csv(
-        f, sep=";", encoding="latin1", usecols=COLUNAS,
+        f, sep=";", encoding="latin1",
+        usecols=lambda c: c in COLUNAS or c in NOMES_ALTERNATIVOS,
         dtype=str, chunksize=1_000_000,
     ):
+        bloco = bloco.rename(columns=NOMES_ALTERNATIVOS)
+        faltando = [c for c in COLUNAS if c not in bloco.columns]
+        if faltando:
+            raise ValueError(f"Colunas não encontradas no arquivo do TSE: {faltando}")
         data_geracao = data_geracao or bloco["DT_GERACAO"].iloc[0]
         bloco["QT_ELEITORES_PERFIL"] = pd.to_numeric(bloco["QT_ELEITORES_PERFIL"])
         partes.append(
