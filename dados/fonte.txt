@@ -1,0 +1,4 @@
+Fonte: TSE - Portal de Dados Abertos, conjunto 'Eleitorado - Atual'
+Arquivo original: https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_ATUAL.zip
+Data de geração informada pelo TSE (DT_GERACAO): 01/10/2026
+Total de eleitores: 158765458

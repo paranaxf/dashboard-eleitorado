@@ -1,0 +1,1758 @@
+Estado,Escolaridade,Faixa_Etaria,Total_Eleitores
+AC,Analfabeto,16 e 17 anos,79
+AC,Fundamental completo,16 e 17 anos,196
+AC,Fundamental incompleto,16 e 17 anos,1945
+AC,Lê e escreve,16 e 17 anos,124
+AC,Médio completo,16 e 17 anos,146
+AC,Médio incompleto,16 e 17 anos,11769
+AC,Superior incompleto,16 e 17 anos,61
+AC,Analfabeto,18 a 24 anos,961
+AC,Fundamental completo,18 a 24 anos,3107
+AC,Fundamental incompleto,18 a 24 anos,14967
+AC,Lê e escreve,18 a 24 anos,1572
+AC,Médio completo,18 a 24 anos,23242
+AC,Médio incompleto,18 a 24 anos,48948
+AC,Superior completo,18 a 24 anos,344
+AC,Superior incompleto,18 a 24 anos,5347
+AC,Analfabeto,25 a 34 anos,2333
+AC,Fundamental completo,25 a 34 anos,5253
+AC,Fundamental incompleto,25 a 34 anos,21829
+AC,Lê e escreve,25 a 34 anos,3275
+AC,Médio completo,25 a 34 anos,44404
+AC,Médio incompleto,25 a 34 anos,41934
+AC,Superior completo,25 a 34 anos,6674
+AC,Superior incompleto,25 a 34 anos,14153
+AC,Analfabeto,35 a 44 anos,4879
+AC,Fundamental completo,35 a 44 anos,6402
+AC,Fundamental incompleto,35 a 44 anos,24382
+AC,Lê e escreve,35 a 44 anos,7539
+AC,Médio completo,35 a 44 anos,37780
+AC,Médio incompleto,35 a 44 anos,11581
+AC,Superior completo,35 a 44 anos,19340
+AC,Superior incompleto,35 a 44 anos,11123
+AC,Analfabeto,45 a 59 anos,14654
+AC,Fundamental completo,45 a 59 anos,8068
+AC,Fundamental incompleto,45 a 59 anos,34313
+AC,Lê e escreve,45 a 59 anos,18467
+AC,Médio completo,45 a 59 anos,30085
+AC,Médio incompleto,45 a 59 anos,7500
+AC,Superior completo,45 a 59 anos,22804
+AC,Superior incompleto,45 a 59 anos,5244
+AC,Analfabeto,60 a 69 anos,9640
+AC,Fundamental completo,60 a 69 anos,3339
+AC,Fundamental incompleto,60 a 69 anos,12438
+AC,Lê e escreve,60 a 69 anos,11305
+AC,Médio completo,60 a 69 anos,8258
+AC,Médio incompleto,60 a 69 anos,1883
+AC,Superior completo,60 a 69 anos,6421
+AC,Superior incompleto,60 a 69 anos,860
+AC,Analfabeto,70 anos ou mais,12738
+AC,Fundamental completo,70 anos ou mais,2392
+AC,Fundamental incompleto,70 anos ou mais,7770
+AC,Lê e escreve,70 anos ou mais,12228
+AC,Médio completo,70 anos ou mais,4162
+AC,Médio incompleto,70 anos ou mais,954
+AC,Superior completo,70 anos ou mais,3032
+AC,Superior incompleto,70 anos ou mais,379
+AC,Analfabeto,Não informado,4
+AC,Fundamental incompleto,Não informado,3
+AC,Lê e escreve,Não informado,1
+AL,Analfabeto,16 e 17 anos,157
+AL,Fundamental completo,16 e 17 anos,699
+AL,Fundamental incompleto,16 e 17 anos,2955
+AL,Lê e escreve,16 e 17 anos,59
+AL,Médio completo,16 e 17 anos,1017
+AL,Médio incompleto,16 e 17 anos,36055
+AL,Superior incompleto,16 e 17 anos,114
+AL,Analfabeto,18 a 24 anos,2387
+AL,Fundamental completo,18 a 24 anos,11033
+AL,Fundamental incompleto,18 a 24 anos,41375
+AL,Lê e escreve,18 a 24 anos,1588
+AL,Médio completo,18 a 24 anos,82720
+AL,Médio incompleto,18 a 24 anos,169299
+AL,Superior completo,18 a 24 anos,806
+AL,Superior incompleto,18 a 24 anos,11796
+AL,Analfabeto,25 a 34 anos,8545
+AL,Fundamental completo,25 a 34 anos,21077
+AL,Fundamental incompleto,25 a 34 anos,137567
+AL,Lê e escreve,25 a 34 anos,7588
+AL,Médio completo,25 a 34 anos,117897
+AL,Médio incompleto,25 a 34 anos,179302
+AL,Superior completo,25 a 34 anos,11676
+AL,Superior incompleto,25 a 34 anos,26798
+AL,Analfabeto,35 a 44 anos,23844
+AL,Fundamental completo,35 a 44 anos,22620
+AL,Fundamental incompleto,35 a 44 anos,139422
+AL,Lê e escreve,35 a 44 anos,30474
+AL,Médio completo,35 a 44 anos,131349
+AL,Médio incompleto,35 a 44 anos,57065
+AL,Superior completo,35 a 44 anos,39810
+AL,Superior incompleto,35 a 44 anos,36569
+AL,Analfabeto,45 a 59 anos,80522
+AL,Fundamental completo,45 a 59 anos,30545
+AL,Fundamental incompleto,45 a 59 anos,171649
+AL,Lê e escreve,45 a 59 anos,95650
+AL,Médio completo,45 a 59 anos,117777
+AL,Médio incompleto,45 a 59 anos,36262
+AL,Superior completo,45 a 59 anos,56530
+AL,Superior incompleto,45 a 59 anos,18921
+AL,Analfabeto,60 a 69 anos,54979
+AL,Fundamental completo,60 a 69 anos,13237
+AL,Fundamental incompleto,60 a 69 anos,56136
+AL,Lê e escreve,60 a 69 anos,63446
+AL,Médio completo,60 a 69 anos,40064
+AL,Médio incompleto,60 a 69 anos,9569
+AL,Superior completo,60 a 69 anos,24560
+AL,Superior incompleto,60 a 69 anos,5192
+AL,Analfabeto,70 anos ou mais,66979
+AL,Fundamental completo,70 anos ou mais,8335
+AL,Fundamental incompleto,70 anos ou mais,31257
+AL,Lê e escreve,70 anos ou mais,64033
+AL,Médio completo,70 anos ou mais,19923
+AL,Médio incompleto,70 anos ou mais,3744
+AL,Superior completo,70 anos ou mais,17182
+AL,Superior incompleto,70 anos ou mais,2054
+AL,Analfabeto,Não informado,24
+AL,Fundamental completo,Não informado,1
+AL,Fundamental incompleto,Não informado,13
+AL,Lê e escreve,Não informado,18
+AL,Médio completo,Não informado,4
+AL,Médio incompleto,Não informado,6
+AM,Analfabeto,16 e 17 anos,243
+AM,Fundamental completo,16 e 17 anos,1213
+AM,Fundamental incompleto,16 e 17 anos,4624
+AM,Lê e escreve,16 e 17 anos,115
+AM,Médio completo,16 e 17 anos,976
+AM,Médio incompleto,16 e 17 anos,44897
+AM,Superior completo,16 e 17 anos,6
+AM,Superior incompleto,16 e 17 anos,212
+AM,Analfabeto,18 a 24 anos,3641
+AM,Fundamental completo,18 a 24 anos,13740
+AM,Fundamental incompleto,18 a 24 anos,44872
+AM,Lê e escreve,18 a 24 anos,1857
+AM,Médio completo,18 a 24 anos,127360
+AM,Médio incompleto,18 a 24 anos,235975
+AM,Superior completo,18 a 24 anos,1149
+AM,Superior incompleto,18 a 24 anos,20672
+AM,Analfabeto,25 a 34 anos,7100
+AM,Fundamental completo,25 a 34 anos,23215
+AM,Fundamental incompleto,25 a 34 anos,95165
+AM,Lê e escreve,25 a 34 anos,4748
+AM,Médio completo,25 a 34 anos,249344
+AM,Médio incompleto,25 a 34 anos,186489
+AM,Superior completo,25 a 34 anos,22915
+AM,Superior incompleto,25 a 34 anos,65621
+AM,Analfabeto,35 a 44 anos,11179
+AM,Fundamental completo,35 a 44 anos,24076
+AM,Fundamental incompleto,35 a 44 anos,105087
+AM,Lê e escreve,35 a 44 anos,15149
+AM,Médio completo,35 a 44 anos,230243
+AM,Médio incompleto,35 a 44 anos,56117
+AM,Superior completo,35 a 44 anos,80272
+AM,Superior incompleto,35 a 44 anos,48486
+AM,Analfabeto,45 a 59 anos,29274
+AM,Fundamental completo,45 a 59 anos,33528
+AM,Fundamental incompleto,45 a 59 anos,157647
+AM,Lê e escreve,45 a 59 anos,44748
+AM,Médio completo,45 a 59 anos,219360
+AM,Médio incompleto,45 a 59 anos,38581
+AM,Superior completo,45 a 59 anos,97705
+AM,Superior incompleto,45 a 59 anos,30816
+AM,Analfabeto,60 a 69 anos,23014
+AM,Fundamental completo,60 a 69 anos,16924
+AM,Fundamental incompleto,60 a 69 anos,66704
+AM,Lê e escreve,60 a 69 anos,35020
+AM,Médio completo,60 a 69 anos,64188
+AM,Médio incompleto,60 a 69 anos,11333
+AM,Superior completo,60 a 69 anos,29653
+AM,Superior incompleto,60 a 69 anos,5884
+AM,Analfabeto,70 anos ou mais,31676
+AM,Fundamental completo,70 anos ou mais,10504
+AM,Fundamental incompleto,70 anos ou mais,41055
+AM,Lê e escreve,70 anos ou mais,40336
+AM,Médio completo,70 anos ou mais,26266
+AM,Médio incompleto,70 anos ou mais,4997
+AM,Superior completo,70 anos ou mais,14068
+AM,Superior incompleto,70 anos ou mais,2046
+AM,Analfabeto,Não informado,1
+AM,Fundamental incompleto,Não informado,1
+AM,Lê e escreve,Não informado,2
+AM,Médio completo,Não informado,1
+AM,Médio incompleto,Não informado,1
+AP,Analfabeto,16 e 17 anos,39
+AP,Fundamental completo,16 e 17 anos,354
+AP,Fundamental incompleto,16 e 17 anos,2250
+AP,Lê e escreve,16 e 17 anos,25
+AP,Médio completo,16 e 17 anos,188
+AP,Médio incompleto,16 e 17 anos,11674
+AP,Superior incompleto,16 e 17 anos,67
+AP,Analfabeto,18 a 24 anos,341
+AP,Fundamental completo,18 a 24 anos,3213
+AP,Fundamental incompleto,18 a 24 anos,14402
+AP,Lê e escreve,18 a 24 anos,287
+AP,Médio completo,18 a 24 anos,20193
+AP,Médio incompleto,18 a 24 anos,44272
+AP,Superior completo,18 a 24 anos,463
+AP,Superior incompleto,18 a 24 anos,6131
+AP,Analfabeto,25 a 34 anos,760
+AP,Fundamental completo,25 a 34 anos,5237
+AP,Fundamental incompleto,25 a 34 anos,24341
+AP,Lê e escreve,25 a 34 anos,748
+AP,Médio completo,25 a 34 anos,38579
+AP,Médio incompleto,25 a 34 anos,47058
+AP,Superior completo,25 a 34 anos,5899
+AP,Superior incompleto,25 a 34 anos,13434
+AP,Analfabeto,35 a 44 anos,1476
+AP,Fundamental completo,35 a 44 anos,5855
+AP,Fundamental incompleto,35 a 44 anos,20568
+AP,Lê e escreve,35 a 44 anos,2298
+AP,Médio completo,35 a 44 anos,45943
+AP,Médio incompleto,35 a 44 anos,13160
+AP,Superior completo,35 a 44 anos,18870
+AP,Superior incompleto,35 a 44 anos,12172
+AP,Analfabeto,45 a 59 anos,4962
+AP,Fundamental completo,45 a 59 anos,8503
+AP,Fundamental incompleto,45 a 59 anos,30463
+AP,Lê e escreve,45 a 59 anos,7943
+AP,Médio completo,45 a 59 anos,41123
+AP,Médio incompleto,45 a 59 anos,8348
+AP,Superior completo,45 a 59 anos,23790
+AP,Superior incompleto,45 a 59 anos,7148
+AP,Analfabeto,60 a 69 anos,4244
+AP,Fundamental completo,60 a 69 anos,4134
+AP,Fundamental incompleto,60 a 69 anos,12849
+AP,Lê e escreve,60 a 69 anos,5930
+AP,Médio completo,60 a 69 anos,11348
+AP,Médio incompleto,60 a 69 anos,2223
+AP,Superior completo,60 a 69 anos,6765
+AP,Superior incompleto,60 a 69 anos,1134
+AP,Analfabeto,70 anos ou mais,6842
+AP,Fundamental completo,70 anos ou mais,2637
+AP,Fundamental incompleto,70 anos ou mais,9344
+AP,Lê e escreve,70 anos ou mais,8242
+AP,Médio completo,70 anos ou mais,5250
+AP,Médio incompleto,70 anos ou mais,1097
+AP,Superior completo,70 anos ou mais,2730
+AP,Superior incompleto,70 anos ou mais,351
+AP,Fundamental incompleto,Não informado,1
+BA,Analfabeto,16 e 17 anos,280
+BA,Fundamental completo,16 e 17 anos,3045
+BA,Fundamental incompleto,16 e 17 anos,12017
+BA,Lê e escreve,16 e 17 anos,121
+BA,Médio completo,16 e 17 anos,2914
+BA,Médio incompleto,16 e 17 anos,120290
+BA,Superior completo,16 e 17 anos,4
+BA,Superior incompleto,16 e 17 anos,528
+BA,Analfabeto,18 a 24 anos,4590
+BA,Fundamental completo,18 a 24 anos,44836
+BA,Fundamental incompleto,18 a 24 anos,187592
+BA,Lê e escreve,18 a 24 anos,4864
+BA,Médio completo,18 a 24 anos,301915
+BA,Médio incompleto,18 a 24 anos,727889
+BA,Superior completo,18 a 24 anos,2497
+BA,Superior incompleto,18 a 24 anos,43598
+BA,Analfabeto,25 a 34 anos,12472
+BA,Fundamental completo,25 a 34 anos,75664
+BA,Fundamental incompleto,25 a 34 anos,428058
+BA,Lê e escreve,25 a 34 anos,20424
+BA,Médio completo,25 a 34 anos,765304
+BA,Médio incompleto,25 a 34 anos,622600
+BA,Superior completo,25 a 34 anos,85256
+BA,Superior incompleto,25 a 34 anos,166483
+BA,Analfabeto,35 a 44 anos,34401
+BA,Fundamental completo,35 a 44 anos,97620
+BA,Fundamental incompleto,35 a 44 anos,519385
+BA,Lê e escreve,35 a 44 anos,86366
+BA,Médio completo,35 a 44 anos,868868
+BA,Médio incompleto,35 a 44 anos,267034
+BA,Superior completo,35 a 44 anos,292892
+BA,Superior incompleto,35 a 44 anos,116015
+BA,Analfabeto,45 a 59 anos,174460
+BA,Fundamental completo,45 a 59 anos,136269
+BA,Fundamental incompleto,45 a 59 anos,804579
+BA,Lê e escreve,45 a 59 anos,424462
+BA,Médio completo,45 a 59 anos,814786
+BA,Médio incompleto,45 a 59 anos,196322
+BA,Não informado,45 a 59 anos,24
+BA,Superior completo,45 a 59 anos,337240
+BA,Superior incompleto,45 a 59 anos,77585
+BA,Analfabeto,60 a 69 anos,151311
+BA,Fundamental completo,60 a 69 anos,69491
+BA,Fundamental incompleto,60 a 69 anos,333019
+BA,Lê e escreve,60 a 69 anos,349885
+BA,Médio completo,60 a 69 anos,269255
+BA,Médio incompleto,60 a 69 anos,58442
+BA,Não informado,60 a 69 anos,26
+BA,Superior completo,60 a 69 anos,109643
+BA,Superior incompleto,60 a 69 anos,20866
+BA,Analfabeto,70 anos ou mais,225529
+BA,Fundamental completo,70 anos ou mais,44285
+BA,Fundamental incompleto,70 anos ou mais,193287
+BA,Lê e escreve,70 anos ou mais,378598
+BA,Médio completo,70 anos ou mais,135365
+BA,Médio incompleto,70 anos ou mais,24172
+BA,Não informado,70 anos ou mais,56
+BA,Superior completo,70 anos ou mais,67027
+BA,Superior incompleto,70 anos ou mais,10038
+BA,Analfabeto,Não informado,27
+BA,Fundamental completo,Não informado,4
+BA,Fundamental incompleto,Não informado,23
+BA,Lê e escreve,Não informado,22
+BA,Médio completo,Não informado,6
+BA,Médio incompleto,Não informado,7
+BA,Superior completo,Não informado,1
+CE,Analfabeto,16 e 17 anos,220
+CE,Fundamental completo,16 e 17 anos,1051
+CE,Fundamental incompleto,16 e 17 anos,3291
+CE,Lê e escreve,16 e 17 anos,50
+CE,Médio completo,16 e 17 anos,1853
+CE,Médio incompleto,16 e 17 anos,114842
+CE,Superior completo,16 e 17 anos,5
+CE,Superior incompleto,16 e 17 anos,499
+CE,Analfabeto,18 a 24 anos,2718
+CE,Fundamental completo,18 a 24 anos,24418
+CE,Fundamental incompleto,18 a 24 anos,50520
+CE,Lê e escreve,18 a 24 anos,1868
+CE,Médio completo,18 a 24 anos,226964
+CE,Médio incompleto,18 a 24 anos,482658
+CE,Superior completo,18 a 24 anos,1726
+CE,Superior incompleto,18 a 24 anos,38257
+CE,Analfabeto,25 a 34 anos,9744
+CE,Fundamental completo,25 a 34 anos,67456
+CE,Fundamental incompleto,25 a 34 anos,185384
+CE,Lê e escreve,25 a 34 anos,7596
+CE,Médio completo,25 a 34 anos,524767
+CE,Médio incompleto,25 a 34 anos,442372
+CE,Superior completo,25 a 34 anos,67921
+CE,Superior incompleto,25 a 34 anos,144775
+CE,Analfabeto,35 a 44 anos,28249
+CE,Fundamental completo,35 a 44 anos,92095
+CE,Fundamental incompleto,35 a 44 anos,291413
+CE,Lê e escreve,35 a 44 anos,37214
+CE,Médio completo,35 a 44 anos,507915
+CE,Médio incompleto,35 a 44 anos,170299
+CE,Superior completo,35 a 44 anos,194145
+CE,Superior incompleto,35 a 44 anos,93690
+CE,Analfabeto,45 a 59 anos,136040
+CE,Fundamental completo,45 a 59 anos,110960
+CE,Fundamental incompleto,45 a 59 anos,502684
+CE,Lê e escreve,45 a 59 anos,210576
+CE,Médio completo,45 a 59 anos,402532
+CE,Médio incompleto,45 a 59 anos,99559
+CE,Não informado,45 a 59 anos,11
+CE,Superior completo,45 a 59 anos,195687
+CE,Superior incompleto,45 a 59 anos,46891
+CE,Analfabeto,60 a 69 anos,111336
+CE,Fundamental completo,60 a 69 anos,50584
+CE,Fundamental incompleto,60 a 69 anos,207939
+CE,Lê e escreve,60 a 69 anos,185444
+CE,Médio completo,60 a 69 anos,133070
+CE,Médio incompleto,60 a 69 anos,29435
+CE,Não informado,60 a 69 anos,26
+CE,Superior completo,60 a 69 anos,78804
+CE,Superior incompleto,60 a 69 anos,11790
+CE,Analfabeto,70 anos ou mais,164953
+CE,Fundamental completo,70 anos ou mais,28612
+CE,Fundamental incompleto,70 anos ou mais,123762
+CE,Lê e escreve,70 anos ou mais,219931
+CE,Médio completo,70 anos ou mais,68446
+CE,Médio incompleto,70 anos ou mais,11603
+CE,Não informado,70 anos ou mais,75
+CE,Superior completo,70 anos ou mais,49032
+CE,Superior incompleto,70 anos ou mais,5143
+CE,Analfabeto,Não informado,20
+CE,Fundamental completo,Não informado,4
+CE,Fundamental incompleto,Não informado,20
+CE,Lê e escreve,Não informado,22
+CE,Médio completo,Não informado,9
+CE,Médio incompleto,Não informado,1
+CE,Superior incompleto,Não informado,2
+DF,Analfabeto,16 e 17 anos,21
+DF,Fundamental completo,16 e 17 anos,253
+DF,Fundamental incompleto,16 e 17 anos,788
+DF,Lê e escreve,16 e 17 anos,34
+DF,Médio completo,16 e 17 anos,244
+DF,Médio incompleto,16 e 17 anos,17805
+DF,Superior completo,16 e 17 anos,2
+DF,Superior incompleto,16 e 17 anos,153
+DF,Analfabeto,18 a 24 anos,222
+DF,Fundamental completo,18 a 24 anos,5539
+DF,Fundamental incompleto,18 a 24 anos,9958
+DF,Lê e escreve,18 a 24 anos,565
+DF,Médio completo,18 a 24 anos,98326
+DF,Médio incompleto,18 a 24 anos,88330
+DF,Superior completo,18 a 24 anos,3785
+DF,Superior incompleto,18 a 24 anos,37258
+DF,Analfabeto,25 a 34 anos,741
+DF,Fundamental completo,25 a 34 anos,9340
+DF,Fundamental incompleto,25 a 34 anos,32470
+DF,Lê e escreve,25 a 34 anos,706
+DF,Médio completo,25 a 34 anos,153343
+DF,Médio incompleto,25 a 34 anos,133923
+DF,Superior completo,25 a 34 anos,29962
+DF,Superior incompleto,25 a 34 anos,78338
+DF,Analfabeto,35 a 44 anos,980
+DF,Fundamental completo,35 a 44 anos,15084
+DF,Fundamental incompleto,35 a 44 anos,39235
+DF,Lê e escreve,35 a 44 anos,2736
+DF,Médio completo,35 a 44 anos,146026
+DF,Médio incompleto,35 a 44 anos,35397
+DF,Superior completo,35 a 44 anos,156088
+DF,Superior incompleto,35 a 44 anos,73124
+DF,Analfabeto,45 a 59 anos,3871
+DF,Fundamental completo,45 a 59 anos,34169
+DF,Fundamental incompleto,45 a 59 anos,99465
+DF,Lê e escreve,45 a 59 anos,16489
+DF,Médio completo,45 a 59 anos,179902
+DF,Médio incompleto,45 a 59 anos,37660
+DF,Superior completo,45 a 59 anos,210130
+DF,Superior incompleto,45 a 59 anos,41151
+DF,Analfabeto,60 a 69 anos,3575
+DF,Fundamental completo,60 a 69 anos,20126
+DF,Fundamental incompleto,60 a 69 anos,47968
+DF,Lê e escreve,60 a 69 anos,15437
+DF,Médio completo,60 a 69 anos,71065
+DF,Médio incompleto,60 a 69 anos,13948
+DF,Não informado,60 a 69 anos,1
+DF,Superior completo,60 a 69 anos,73685
+DF,Superior incompleto,60 a 69 anos,10404
+DF,Analfabeto,70 anos ou mais,7504
+DF,Fundamental completo,70 anos ou mais,18026
+DF,Fundamental incompleto,70 anos ou mais,40654
+DF,Lê e escreve,70 anos ou mais,27372
+DF,Médio completo,70 anos ou mais,43605
+DF,Médio incompleto,70 anos ou mais,8607
+DF,Superior completo,70 anos ou mais,52154
+DF,Superior incompleto,70 anos ou mais,5487
+DF,Analfabeto,Não informado,1
+DF,Fundamental incompleto,Não informado,2
+DF,Lê e escreve,Não informado,1
+DF,Médio completo,Não informado,1
+DF,Médio incompleto,Não informado,1
+DF,Superior completo,Não informado,1
+ES,Analfabeto,16 e 17 anos,42
+ES,Fundamental completo,16 e 17 anos,502
+ES,Fundamental incompleto,16 e 17 anos,1132
+ES,Lê e escreve,16 e 17 anos,9
+ES,Médio completo,16 e 17 anos,412
+ES,Médio incompleto,16 e 17 anos,18187
+ES,Superior completo,16 e 17 anos,2
+ES,Superior incompleto,16 e 17 anos,108
+ES,Analfabeto,18 a 24 anos,650
+ES,Fundamental completo,18 a 24 anos,11882
+ES,Fundamental incompleto,18 a 24 anos,23731
+ES,Lê e escreve,18 a 24 anos,487
+ES,Médio completo,18 a 24 anos,100620
+ES,Médio incompleto,18 a 24 anos,143800
+ES,Superior completo,18 a 24 anos,1139
+ES,Superior incompleto,18 a 24 anos,18907
+ES,Analfabeto,25 a 34 anos,1701
+ES,Fundamental completo,25 a 34 anos,21588
+ES,Fundamental incompleto,25 a 34 anos,67811
+ES,Lê e escreve,25 a 34 anos,1140
+ES,Médio completo,25 a 34 anos,187207
+ES,Médio incompleto,25 a 34 anos,174495
+ES,Superior completo,25 a 34 anos,33876
+ES,Superior incompleto,25 a 34 anos,54986
+ES,Analfabeto,35 a 44 anos,4800
+ES,Fundamental completo,35 a 44 anos,37442
+ES,Fundamental incompleto,35 a 44 anos,107746
+ES,Lê e escreve,35 a 44 anos,6371
+ES,Médio completo,35 a 44 anos,191876
+ES,Médio incompleto,35 a 44 anos,114010
+ES,Superior completo,35 a 44 anos,103021
+ES,Superior incompleto,35 a 44 anos,35973
+ES,Analfabeto,45 a 59 anos,22739
+ES,Fundamental completo,45 a 59 anos,64626
+ES,Fundamental incompleto,45 a 59 anos,249339
+ES,Lê e escreve,45 a 59 anos,39286
+ES,Médio completo,45 a 59 anos,196950
+ES,Médio incompleto,45 a 59 anos,70631
+ES,Não informado,45 a 59 anos,34
+ES,Superior completo,45 a 59 anos,117776
+ES,Superior incompleto,45 a 59 anos,23145
+ES,Analfabeto,60 a 69 anos,25270
+ES,Fundamental completo,60 a 69 anos,39811
+ES,Fundamental incompleto,60 a 69 anos,136270
+ES,Lê e escreve,60 a 69 anos,41717
+ES,Médio completo,60 a 69 anos,86853
+ES,Médio incompleto,60 a 69 anos,18041
+ES,Não informado,60 a 69 anos,253
+ES,Superior completo,60 a 69 anos,47626
+ES,Superior incompleto,60 a 69 anos,7654
+ES,Analfabeto,70 anos ou mais,47920
+ES,Fundamental completo,70 anos ou mais,26112
+ES,Fundamental incompleto,70 anos ou mais,107692
+ES,Lê e escreve,70 anos ou mais,63788
+ES,Médio completo,70 anos ou mais,47999
+ES,Médio incompleto,70 anos ou mais,7771
+ES,Não informado,70 anos ou mais,434
+ES,Superior completo,70 anos ou mais,31433
+ES,Superior incompleto,70 anos ou mais,3726
+ES,Analfabeto,Não informado,8
+ES,Fundamental completo,Não informado,3
+ES,Fundamental incompleto,Não informado,8
+ES,Lê e escreve,Não informado,11
+ES,Médio completo,Não informado,2
+ES,Superior completo,Não informado,1
+Exterior,Analfabeto,16 e 17 anos,1
+Exterior,Fundamental completo,16 e 17 anos,195
+Exterior,Fundamental incompleto,16 e 17 anos,128
+Exterior,Lê e escreve,16 e 17 anos,10
+Exterior,Médio completo,16 e 17 anos,193
+Exterior,Médio incompleto,16 e 17 anos,1880
+Exterior,Superior completo,16 e 17 anos,14
+Exterior,Superior incompleto,16 e 17 anos,45
+Exterior,Analfabeto,18 a 24 anos,159
+Exterior,Fundamental completo,18 a 24 anos,5293
+Exterior,Fundamental incompleto,18 a 24 anos,1693
+Exterior,Lê e escreve,18 a 24 anos,959
+Exterior,Médio completo,18 a 24 anos,38206
+Exterior,Médio incompleto,18 a 24 anos,25464
+Exterior,Superior completo,18 a 24 anos,4473
+Exterior,Superior incompleto,18 a 24 anos,20891
+Exterior,Analfabeto,25 a 34 anos,188
+Exterior,Fundamental completo,25 a 34 anos,5753
+Exterior,Fundamental incompleto,25 a 34 anos,2574
+Exterior,Lê e escreve,25 a 34 anos,1372
+Exterior,Médio completo,25 a 34 anos,54166
+Exterior,Médio incompleto,25 a 34 anos,20323
+Exterior,Superior completo,25 a 34 anos,55909
+Exterior,Superior incompleto,25 a 34 anos,36449
+Exterior,Analfabeto,35 a 44 anos,134
+Exterior,Fundamental completo,35 a 44 anos,8870
+Exterior,Fundamental incompleto,35 a 44 anos,5568
+Exterior,Lê e escreve,35 a 44 anos,1574
+Exterior,Médio completo,35 a 44 anos,56239
+Exterior,Médio incompleto,35 a 44 anos,15267
+Exterior,Superior completo,35 a 44 anos,125173
+Exterior,Superior incompleto,35 a 44 anos,27001
+Exterior,Analfabeto,45 a 59 anos,306
+Exterior,Fundamental completo,45 a 59 anos,16574
+Exterior,Fundamental incompleto,45 a 59 anos,13393
+Exterior,Lê e escreve,45 a 59 anos,3036
+Exterior,Médio completo,45 a 59 anos,77917
+Exterior,Médio incompleto,45 a 59 anos,19498
+Exterior,Não informado,45 a 59 anos,1
+Exterior,Superior completo,45 a 59 anos,117105
+Exterior,Superior incompleto,45 a 59 anos,26336
+Exterior,Analfabeto,60 a 69 anos,214
+Exterior,Fundamental completo,60 a 69 anos,6450
+Exterior,Fundamental incompleto,60 a 69 anos,4951
+Exterior,Lê e escreve,60 a 69 anos,1502
+Exterior,Médio completo,60 a 69 anos,27002
+Exterior,Médio incompleto,60 a 69 anos,5843
+Exterior,Superior completo,60 a 69 anos,35131
+Exterior,Superior incompleto,60 a 69 anos,9274
+Exterior,Analfabeto,70 anos ou mais,131
+Exterior,Fundamental completo,70 anos ou mais,3493
+Exterior,Fundamental incompleto,70 anos ou mais,2702
+Exterior,Lê e escreve,70 anos ou mais,1041
+Exterior,Médio completo,70 anos ou mais,9455
+Exterior,Médio incompleto,70 anos ou mais,2220
+Exterior,Superior completo,70 anos ou mais,15664
+Exterior,Superior incompleto,70 anos ou mais,3505
+Exterior,Fundamental incompleto,Não informado,2
+Exterior,Superior completo,Não informado,1
+GO,Analfabeto,16 e 17 anos,60
+GO,Fundamental completo,16 e 17 anos,636
+GO,Fundamental incompleto,16 e 17 anos,1781
+GO,Lê e escreve,16 e 17 anos,18
+GO,Médio completo,16 e 17 anos,1305
+GO,Médio incompleto,16 e 17 anos,46112
+GO,Superior completo,16 e 17 anos,10
+GO,Superior incompleto,16 e 17 anos,376
+GO,Analfabeto,18 a 24 anos,944
+GO,Fundamental completo,18 a 24 anos,15036
+GO,Fundamental incompleto,18 a 24 anos,33818
+GO,Lê e escreve,18 a 24 anos,979
+GO,Médio completo,18 a 24 anos,202364
+GO,Médio incompleto,18 a 24 anos,286578
+GO,Superior completo,18 a 24 anos,2720
+GO,Superior incompleto,18 a 24 anos,42165
+GO,Analfabeto,25 a 34 anos,2448
+GO,Fundamental completo,25 a 34 anos,33673
+GO,Fundamental incompleto,25 a 34 anos,91576
+GO,Lê e escreve,25 a 34 anos,2067
+GO,Médio completo,25 a 34 anos,362865
+GO,Médio incompleto,25 a 34 anos,292142
+GO,Superior completo,25 a 34 anos,62559
+GO,Superior incompleto,25 a 34 anos,136548
+GO,Analfabeto,35 a 44 anos,5514
+GO,Fundamental completo,35 a 44 anos,50260
+GO,Fundamental incompleto,35 a 44 anos,161325
+GO,Lê e escreve,35 a 44 anos,10564
+GO,Médio completo,35 a 44 anos,361342
+GO,Médio incompleto,35 a 44 anos,127979
+GO,Superior completo,35 a 44 anos,202041
+GO,Superior incompleto,35 a 44 anos,99026
+GO,Analfabeto,45 a 59 anos,28168
+GO,Fundamental completo,45 a 59 anos,96720
+GO,Fundamental incompleto,45 a 59 anos,404374
+GO,Lê e escreve,45 a 59 anos,71466
+GO,Médio completo,45 a 59 anos,369150
+GO,Médio incompleto,45 a 59 anos,104219
+GO,Superior completo,45 a 59 anos,213123
+GO,Superior incompleto,45 a 59 anos,51979
+GO,Analfabeto,60 a 69 anos,28759
+GO,Fundamental completo,60 a 69 anos,54093
+GO,Fundamental incompleto,60 a 69 anos,208489
+GO,Lê e escreve,60 a 69 anos,74325
+GO,Médio completo,60 a 69 anos,131237
+GO,Médio incompleto,60 a 69 anos,34802
+GO,Superior completo,60 a 69 anos,71656
+GO,Superior incompleto,60 a 69 anos,13705
+GO,Analfabeto,70 anos ou mais,56366
+GO,Fundamental completo,70 anos ou mais,34676
+GO,Fundamental incompleto,70 anos ou mais,147774
+GO,Lê e escreve,70 anos ou mais,118888
+GO,Médio completo,70 anos ou mais,66175
+GO,Médio incompleto,70 anos ou mais,13790
+GO,Superior completo,70 anos ou mais,43456
+GO,Superior incompleto,70 anos ou mais,6793
+GO,Analfabeto,Não informado,4
+GO,Fundamental completo,Não informado,1
+GO,Fundamental incompleto,Não informado,12
+GO,Lê e escreve,Não informado,5
+GO,Médio completo,Não informado,5
+GO,Médio incompleto,Não informado,2
+MA,Analfabeto,16 e 17 anos,415
+MA,Fundamental completo,16 e 17 anos,2424
+MA,Fundamental incompleto,16 e 17 anos,9213
+MA,Lê e escreve,16 e 17 anos,294
+MA,Médio completo,16 e 17 anos,3313
+MA,Médio incompleto,16 e 17 anos,96546
+MA,Superior completo,16 e 17 anos,5
+MA,Superior incompleto,16 e 17 anos,313
+MA,Analfabeto,18 a 24 anos,4671
+MA,Fundamental completo,18 a 24 anos,31291
+MA,Fundamental incompleto,18 a 24 anos,103100
+MA,Lê e escreve,18 a 24 anos,3888
+MA,Médio completo,18 a 24 anos,189831
+MA,Médio incompleto,18 a 24 anos,412994
+MA,Superior completo,18 a 24 anos,2147
+MA,Superior incompleto,18 a 24 anos,25510
+MA,Analfabeto,25 a 34 anos,10622
+MA,Fundamental completo,25 a 34 anos,54651
+MA,Fundamental incompleto,25 a 34 anos,182283
+MA,Lê e escreve,25 a 34 anos,11911
+MA,Médio completo,25 a 34 anos,398800
+MA,Médio incompleto,25 a 34 anos,312272
+MA,Superior completo,25 a 34 anos,36909
+MA,Superior incompleto,25 a 34 anos,62745
+MA,Analfabeto,35 a 44 anos,30734
+MA,Fundamental completo,35 a 44 anos,67228
+MA,Fundamental incompleto,35 a 44 anos,265212
+MA,Lê e escreve,35 a 44 anos,60049
+MA,Médio completo,35 a 44 anos,377719
+MA,Médio incompleto,35 a 44 anos,109550
+MA,Superior completo,35 a 44 anos,103816
+MA,Superior incompleto,35 a 44 anos,47665
+MA,Analfabeto,45 a 59 anos,109013
+MA,Fundamental completo,45 a 59 anos,78678
+MA,Fundamental incompleto,45 a 59 anos,322879
+MA,Lê e escreve,45 a 59 anos,189650
+MA,Médio completo,45 a 59 anos,291411
+MA,Médio incompleto,45 a 59 anos,62041
+MA,Superior completo,45 a 59 anos,114998
+MA,Superior incompleto,45 a 59 anos,23548
+MA,Analfabeto,60 a 69 anos,86830
+MA,Fundamental completo,60 a 69 anos,32984
+MA,Fundamental incompleto,60 a 69 anos,112744
+MA,Lê e escreve,60 a 69 anos,147148
+MA,Médio completo,60 a 69 anos,88817
+MA,Médio incompleto,60 a 69 anos,16646
+MA,Não informado,60 a 69 anos,2
+MA,Superior completo,60 a 69 anos,36054
+MA,Superior incompleto,60 a 69 anos,5078
+MA,Analfabeto,70 anos ou mais,133716
+MA,Fundamental completo,70 anos ou mais,17909
+MA,Fundamental incompleto,70 anos ou mais,68126
+MA,Lê e escreve,70 anos ou mais,160104
+MA,Médio completo,70 anos ou mais,42572
+MA,Médio incompleto,70 anos ou mais,6249
+MA,Não informado,70 anos ou mais,10
+MA,Superior completo,70 anos ou mais,20666
+MA,Superior incompleto,70 anos ou mais,2091
+MA,Analfabeto,Não informado,14
+MA,Fundamental incompleto,Não informado,7
+MA,Lê e escreve,Não informado,4
+MA,Médio completo,Não informado,2
+MA,Médio incompleto,Não informado,3
+MG,Analfabeto,16 e 17 anos,370
+MG,Fundamental completo,16 e 17 anos,1647
+MG,Fundamental incompleto,16 e 17 anos,4459
+MG,Lê e escreve,16 e 17 anos,73
+MG,Médio completo,16 e 17 anos,1932
+MG,Médio incompleto,16 e 17 anos,125837
+MG,Superior completo,16 e 17 anos,5
+MG,Superior incompleto,16 e 17 anos,642
+MG,Analfabeto,18 a 24 anos,4636
+MG,Fundamental completo,18 a 24 anos,47156
+MG,Fundamental incompleto,18 a 24 anos,81756
+MG,Lê e escreve,18 a 24 anos,2011
+MG,Médio completo,18 a 24 anos,575080
+MG,Médio incompleto,18 a 24 anos,829519
+MG,Superior completo,18 a 24 anos,5511
+MG,Superior incompleto,18 a 24 anos,85690
+MG,Analfabeto,25 a 34 anos,12336
+MG,Fundamental completo,25 a 34 anos,107855
+MG,Fundamental incompleto,25 a 34 anos,289801
+MG,Lê e escreve,25 a 34 anos,7138
+MG,Médio completo,25 a 34 anos,1022414
+MG,Médio incompleto,25 a 34 anos,1055382
+MG,Superior completo,25 a 34 anos,186437
+MG,Superior incompleto,25 a 34 anos,271670
+MG,Analfabeto,35 a 44 anos,27453
+MG,Fundamental completo,35 a 44 anos,180244
+MG,Fundamental incompleto,35 a 44 anos,576309
+MG,Lê e escreve,35 a 44 anos,45052
+MG,Médio completo,35 a 44 anos,947851
+MG,Médio incompleto,35 a 44 anos,677926
+MG,Superior completo,35 a 44 anos,489272
+MG,Superior incompleto,35 a 44 anos,167977
+MG,Analfabeto,45 a 59 anos,133470
+MG,Fundamental completo,45 a 59 anos,308124
+MG,Fundamental incompleto,45 a 59 anos,1449288
+MG,Lê e escreve,45 a 59 anos,308636
+MG,Médio completo,45 a 59 anos,954081
+MG,Médio incompleto,45 a 59 anos,384441
+MG,Não informado,45 a 59 anos,689
+MG,Superior completo,45 a 59 anos,559060
+MG,Superior incompleto,45 a 59 anos,110720
+MG,Analfabeto,60 a 69 anos,142805
+MG,Fundamental completo,60 a 69 anos,202320
+MG,Fundamental incompleto,60 a 69 anos,821605
+MG,Lê e escreve,60 a 69 anos,281565
+MG,Médio completo,60 a 69 anos,409984
+MG,Médio incompleto,60 a 69 anos,100228
+MG,Não informado,60 a 69 anos,1927
+MG,Superior completo,60 a 69 anos,249061
+MG,Superior incompleto,60 a 69 anos,46951
+MG,Analfabeto,70 anos ou mais,316679
+MG,Fundamental completo,70 anos ou mais,140278
+MG,Fundamental incompleto,70 anos ou mais,694707
+MG,Lê e escreve,70 anos ou mais,441681
+MG,Médio completo,70 anos ou mais,234977
+MG,Médio incompleto,70 anos ou mais,44847
+MG,Não informado,70 anos ou mais,4455
+MG,Superior completo,70 anos ou mais,182209
+MG,Superior incompleto,70 anos ou mais,23186
+MG,Analfabeto,Não informado,36
+MG,Fundamental completo,Não informado,1
+MG,Fundamental incompleto,Não informado,50
+MG,Lê e escreve,Não informado,35
+MG,Médio completo,Não informado,5
+MG,Médio incompleto,Não informado,3
+MG,Superior completo,Não informado,2
+MS,Analfabeto,16 e 17 anos,33
+MS,Fundamental completo,16 e 17 anos,392
+MS,Fundamental incompleto,16 e 17 anos,1818
+MS,Lê e escreve,16 e 17 anos,17
+MS,Médio completo,16 e 17 anos,766
+MS,Médio incompleto,16 e 17 anos,19509
+MS,Superior completo,16 e 17 anos,6
+MS,Superior incompleto,16 e 17 anos,323
+MS,Analfabeto,18 a 24 anos,439
+MS,Fundamental completo,18 a 24 anos,7393
+MS,Fundamental incompleto,18 a 24 anos,24539
+MS,Lê e escreve,18 a 24 anos,658
+MS,Médio completo,18 a 24 anos,69236
+MS,Médio incompleto,18 a 24 anos,103377
+MS,Superior completo,18 a 24 anos,1105
+MS,Superior incompleto,18 a 24 anos,21265
+MS,Analfabeto,25 a 34 anos,1351
+MS,Fundamental completo,25 a 34 anos,15829
+MS,Fundamental incompleto,25 a 34 anos,59424
+MS,Lê e escreve,25 a 34 anos,1719
+MS,Médio completo,25 a 34 anos,112726
+MS,Médio incompleto,25 a 34 anos,105392
+MS,Superior completo,25 a 34 anos,36439
+MS,Superior incompleto,25 a 34 anos,59897
+MS,Analfabeto,35 a 44 anos,3456
+MS,Fundamental completo,35 a 44 anos,20272
+MS,Fundamental incompleto,35 a 44 anos,77292
+MS,Lê e escreve,35 a 44 anos,5095
+MS,Médio completo,35 a 44 anos,113782
+MS,Médio incompleto,35 a 44 anos,52976
+MS,Superior completo,35 a 44 anos,92921
+MS,Superior incompleto,35 a 44 anos,35649
+MS,Analfabeto,45 a 59 anos,15783
+MS,Fundamental completo,45 a 59 anos,35541
+MS,Fundamental incompleto,45 a 59 anos,159926
+MS,Lê e escreve,45 a 59 anos,26491
+MS,Médio completo,45 a 59 anos,122976
+MS,Médio incompleto,45 a 59 anos,36657
+MS,Superior completo,45 a 59 anos,98292
+MS,Superior incompleto,45 a 59 anos,24116
+MS,Analfabeto,60 a 69 anos,16472
+MS,Fundamental completo,60 a 69 anos,21289
+MS,Fundamental incompleto,60 a 69 anos,89873
+MS,Lê e escreve,60 a 69 anos,28738
+MS,Médio completo,60 a 69 anos,46789
+MS,Médio incompleto,60 a 69 anos,11898
+MS,Superior completo,60 a 69 anos,35725
+MS,Superior incompleto,60 a 69 anos,6976
+MS,Analfabeto,70 anos ou mais,26272
+MS,Fundamental completo,70 anos ou mais,14681
+MS,Fundamental incompleto,70 anos ou mais,65849
+MS,Lê e escreve,70 anos ou mais,44646
+MS,Médio completo,70 anos ou mais,21520
+MS,Médio incompleto,70 anos ou mais,5545
+MS,Superior completo,70 anos ou mais,20572
+MS,Superior incompleto,70 anos ou mais,3240
+MS,Analfabeto,Não informado,10
+MS,Fundamental completo,Não informado,4
+MS,Fundamental incompleto,Não informado,17
+MS,Lê e escreve,Não informado,5
+MS,Médio completo,Não informado,1
+MS,Médio incompleto,Não informado,1
+MT,Analfabeto,16 e 17 anos,72
+MT,Fundamental completo,16 e 17 anos,517
+MT,Fundamental incompleto,16 e 17 anos,1520
+MT,Lê e escreve,16 e 17 anos,48
+MT,Médio completo,16 e 17 anos,612
+MT,Médio incompleto,16 e 17 anos,39680
+MT,Superior completo,16 e 17 anos,6
+MT,Superior incompleto,16 e 17 anos,177
+MT,Analfabeto,18 a 24 anos,830
+MT,Fundamental completo,18 a 24 anos,7708
+MT,Fundamental incompleto,18 a 24 anos,12978
+MT,Lê e escreve,18 a 24 anos,797
+MT,Médio completo,18 a 24 anos,103753
+MT,Médio incompleto,18 a 24 anos,157789
+MT,Superior completo,18 a 24 anos,2786
+MT,Superior incompleto,18 a 24 anos,29143
+MT,Analfabeto,25 a 34 anos,1852
+MT,Fundamental completo,25 a 34 anos,19010
+MT,Fundamental incompleto,25 a 34 anos,40731
+MT,Lê e escreve,25 a 34 anos,1938
+MT,Médio completo,25 a 34 anos,187624
+MT,Médio incompleto,25 a 34 anos,150708
+MT,Superior completo,25 a 34 anos,56829
+MT,Superior incompleto,25 a 34 anos,69701
+MT,Analfabeto,35 a 44 anos,4509
+MT,Fundamental completo,35 a 44 anos,30435
+MT,Fundamental incompleto,35 a 44 anos,95510
+MT,Lê e escreve,35 a 44 anos,7166
+MT,Médio completo,35 a 44 anos,175878
+MT,Médio incompleto,35 a 44 anos,69523
+MT,Superior completo,35 a 44 anos,125198
+MT,Superior incompleto,35 a 44 anos,42613
+MT,Analfabeto,45 a 59 anos,19963
+MT,Fundamental completo,45 a 59 anos,47765
+MT,Fundamental incompleto,45 a 59 anos,205460
+MT,Lê e escreve,45 a 59 anos,41280
+MT,Médio completo,45 a 59 anos,173346
+MT,Médio incompleto,45 a 59 anos,49463
+MT,Não informado,45 a 59 anos,2
+MT,Superior completo,45 a 59 anos,122614
+MT,Superior incompleto,45 a 59 anos,24519
+MT,Analfabeto,60 a 69 anos,21948
+MT,Fundamental completo,60 a 69 anos,24540
+MT,Fundamental incompleto,60 a 69 anos,104483
+MT,Lê e escreve,60 a 69 anos,41883
+MT,Médio completo,60 a 69 anos,53933
+MT,Médio incompleto,60 a 69 anos,14268
+MT,Não informado,60 a 69 anos,4
+MT,Superior completo,60 a 69 anos,37960
+MT,Superior incompleto,60 a 69 anos,5417
+MT,Analfabeto,70 anos ou mais,35533
+MT,Fundamental completo,70 anos ou mais,12974
+MT,Fundamental incompleto,70 anos ou mais,65409
+MT,Lê e escreve,70 anos ou mais,53058
+MT,Médio completo,70 anos ou mais,20721
+MT,Médio incompleto,70 anos ou mais,5229
+MT,Não informado,70 anos ou mais,9
+MT,Superior completo,70 anos ou mais,17560
+MT,Superior incompleto,70 anos ou mais,2078
+MT,Analfabeto,Não informado,5
+MT,Fundamental incompleto,Não informado,7
+MT,Lê e escreve,Não informado,2
+MT,Médio completo,Não informado,1
+PA,Analfabeto,16 e 17 anos,394
+PA,Fundamental completo,16 e 17 anos,2513
+PA,Fundamental incompleto,16 e 17 anos,14173
+PA,Lê e escreve,16 e 17 anos,147
+PA,Médio completo,16 e 17 anos,2302
+PA,Médio incompleto,16 e 17 anos,88912
+PA,Superior completo,16 e 17 anos,7
+PA,Superior incompleto,16 e 17 anos,370
+PA,Analfabeto,18 a 24 anos,4653
+PA,Fundamental completo,18 a 24 anos,37842
+PA,Fundamental incompleto,18 a 24 anos,168085
+PA,Lê e escreve,18 a 24 anos,2927
+PA,Médio completo,18 a 24 anos,209951
+PA,Médio incompleto,18 a 24 anos,448045
+PA,Superior completo,18 a 24 anos,3535
+PA,Superior incompleto,18 a 24 anos,43678
+PA,Analfabeto,25 a 34 anos,11182
+PA,Fundamental completo,25 a 34 anos,67558
+PA,Fundamental incompleto,25 a 34 anos,305505
+PA,Lê e escreve,25 a 34 anos,15429
+PA,Médio completo,25 a 34 anos,453088
+PA,Médio incompleto,25 a 34 anos,355194
+PA,Superior completo,25 a 34 anos,64429
+PA,Superior incompleto,25 a 34 anos,109543
+PA,Analfabeto,35 a 44 anos,23845
+PA,Fundamental completo,35 a 44 anos,74580
+PA,Fundamental incompleto,35 a 44 anos,328449
+PA,Lê e escreve,35 a 44 anos,55899
+PA,Médio completo,35 a 44 anos,443169
+PA,Médio incompleto,35 a 44 anos,146313
+PA,Superior completo,35 a 44 anos,153634
+PA,Superior incompleto,35 a 44 anos,64062
+PA,Analfabeto,45 a 59 anos,74797
+PA,Fundamental completo,45 a 59 anos,90736
+PA,Fundamental incompleto,45 a 59 anos,445066
+PA,Lê e escreve,45 a 59 anos,167604
+PA,Médio completo,45 a 59 anos,382791
+PA,Médio incompleto,45 a 59 anos,107548
+PA,Não informado,45 a 59 anos,1
+PA,Superior completo,45 a 59 anos,166660
+PA,Superior incompleto,45 a 59 anos,38844
+PA,Analfabeto,60 a 69 anos,58986
+PA,Fundamental completo,60 a 69 anos,43682
+PA,Fundamental incompleto,60 a 69 anos,180856
+PA,Lê e escreve,60 a 69 anos,120909
+PA,Médio completo,60 a 69 anos,109455
+PA,Médio incompleto,60 a 69 anos,30705
+PA,Não informado,60 a 69 anos,2
+PA,Superior completo,60 a 69 anos,52024
+PA,Superior incompleto,60 a 69 anos,8293
+PA,Analfabeto,70 anos ou mais,94372
+PA,Fundamental completo,70 anos ou mais,28442
+PA,Fundamental incompleto,70 anos ou mais,124337
+PA,Lê e escreve,70 anos ou mais,141316
+PA,Médio completo,70 anos ou mais,55624
+PA,Médio incompleto,70 anos ou mais,13604
+PA,Não informado,70 anos ou mais,12
+PA,Superior completo,70 anos ou mais,27722
+PA,Superior incompleto,70 anos ou mais,3263
+PA,Analfabeto,Não informado,4
+PA,Fundamental completo,Não informado,1
+PA,Fundamental incompleto,Não informado,20
+PA,Lê e escreve,Não informado,6
+PA,Médio completo,Não informado,5
+PA,Médio incompleto,Não informado,5
+PA,Superior completo,Não informado,2
+PB,Analfabeto,16 e 17 anos,164
+PB,Fundamental completo,16 e 17 anos,801
+PB,Fundamental incompleto,16 e 17 anos,4959
+PB,Lê e escreve,16 e 17 anos,46
+PB,Médio completo,16 e 17 anos,1045
+PB,Médio incompleto,16 e 17 anos,46211
+PB,Superior completo,16 e 17 anos,1
+PB,Superior incompleto,16 e 17 anos,275
+PB,Analfabeto,18 a 24 anos,1728
+PB,Fundamental completo,18 a 24 anos,11846
+PB,Fundamental incompleto,18 a 24 anos,58369
+PB,Lê e escreve,18 a 24 anos,1496
+PB,Médio completo,18 a 24 anos,96891
+PB,Médio incompleto,18 a 24 anos,194902
+PB,Superior completo,18 a 24 anos,1610
+PB,Superior incompleto,18 a 24 anos,24826
+PB,Analfabeto,25 a 34 anos,4719
+PB,Fundamental completo,25 a 34 anos,25145
+PB,Fundamental incompleto,25 a 34 anos,133913
+PB,Lê e escreve,25 a 34 anos,6225
+PB,Médio completo,25 a 34 anos,181050
+PB,Médio incompleto,25 a 34 anos,185762
+PB,Superior completo,25 a 34 anos,23699
+PB,Superior incompleto,25 a 34 anos,61842
+PB,Analfabeto,35 a 44 anos,13623
+PB,Fundamental completo,35 a 44 anos,31361
+PB,Fundamental incompleto,35 a 44 anos,167694
+PB,Lê e escreve,35 a 44 anos,35866
+PB,Médio completo,35 a 44 anos,199019
+PB,Médio incompleto,35 a 44 anos,62694
+PB,Superior completo,35 a 44 anos,82929
+PB,Superior incompleto,35 a 44 anos,48762
+PB,Analfabeto,45 a 59 anos,66819
+PB,Fundamental completo,45 a 59 anos,42752
+PB,Fundamental incompleto,45 a 59 anos,236523
+PB,Lê e escreve,45 a 59 anos,138138
+PB,Médio completo,45 a 59 anos,169381
+PB,Médio incompleto,45 a 59 anos,45385
+PB,Superior completo,45 a 59 anos,91344
+PB,Superior incompleto,45 a 59 anos,24126
+PB,Analfabeto,60 a 69 anos,47062
+PB,Fundamental completo,60 a 69 anos,20929
+PB,Fundamental incompleto,60 a 69 anos,87667
+PB,Lê e escreve,60 a 69 anos,100344
+PB,Médio completo,60 a 69 anos,58175
+PB,Médio incompleto,60 a 69 anos,15107
+PB,Superior completo,60 a 69 anos,43290
+PB,Superior incompleto,60 a 69 anos,8110
+PB,Analfabeto,70 anos ou mais,70323
+PB,Fundamental completo,70 anos ou mais,15122
+PB,Fundamental incompleto,70 anos ou mais,58794
+PB,Lê e escreve,70 anos ou mais,127030
+PB,Médio completo,70 anos ou mais,28657
+PB,Médio incompleto,70 anos ou mais,6871
+PB,Superior completo,70 anos ou mais,32421
+PB,Superior incompleto,70 anos ou mais,4109
+PB,Analfabeto,Não informado,10
+PB,Fundamental completo,Não informado,1
+PB,Fundamental incompleto,Não informado,22
+PB,Lê e escreve,Não informado,14
+PB,Médio completo,Não informado,3
+PB,Médio incompleto,Não informado,3
+PB,Superior completo,Não informado,2
+PE,Analfabeto,16 e 17 anos,352
+PE,Fundamental completo,16 e 17 anos,1806
+PE,Fundamental incompleto,16 e 17 anos,6665
+PE,Lê e escreve,16 e 17 anos,62
+PE,Médio completo,16 e 17 anos,3083
+PE,Médio incompleto,16 e 17 anos,84823
+PE,Superior completo,16 e 17 anos,13
+PE,Superior incompleto,16 e 17 anos,463
+PE,Analfabeto,18 a 24 anos,3891
+PE,Fundamental completo,18 a 24 anos,27098
+PE,Fundamental incompleto,18 a 24 anos,83583
+PE,Lê e escreve,18 a 24 anos,2732
+PE,Médio completo,18 a 24 anos,260348
+PE,Médio incompleto,18 a 24 anos,426174
+PE,Superior completo,18 a 24 anos,3333
+PE,Superior incompleto,18 a 24 anos,46787
+PE,Analfabeto,25 a 34 anos,12294
+PE,Fundamental completo,25 a 34 anos,51564
+PE,Fundamental incompleto,25 a 34 anos,261576
+PE,Lê e escreve,25 a 34 anos,12205
+PE,Médio completo,25 a 34 anos,500385
+PE,Médio incompleto,25 a 34 anos,404561
+PE,Superior completo,25 a 34 anos,54465
+PE,Superior incompleto,25 a 34 anos,120209
+PE,Analfabeto,35 a 44 anos,32977
+PE,Fundamental completo,35 a 44 anos,71433
+PE,Fundamental incompleto,35 a 44 anos,353856
+PE,Lê e escreve,35 a 44 anos,55447
+PE,Médio completo,35 a 44 anos,493860
+PE,Médio incompleto,35 a 44 anos,156237
+PE,Superior completo,35 a 44 anos,176858
+PE,Superior incompleto,35 a 44 anos,92130
+PE,Analfabeto,45 a 59 anos,130341
+PE,Fundamental completo,45 a 59 anos,94571
+PE,Fundamental incompleto,45 a 59 anos,543479
+PE,Lê e escreve,45 a 59 anos,215924
+PE,Médio completo,45 a 59 anos,475223
+PE,Médio incompleto,45 a 59 anos,120256
+PE,Não informado,45 a 59 anos,16
+PE,Superior completo,45 a 59 anos,210067
+PE,Superior incompleto,45 a 59 anos,56466
+PE,Analfabeto,60 a 69 anos,102762
+PE,Fundamental completo,60 a 69 anos,50294
+PE,Fundamental incompleto,60 a 69 anos,224597
+PE,Lê e escreve,60 a 69 anos,169515
+PE,Médio completo,60 a 69 anos,161145
+PE,Médio incompleto,60 a 69 anos,39146
+PE,Não informado,60 a 69 anos,72
+PE,Superior completo,60 a 69 anos,89381
+PE,Superior incompleto,60 a 69 anos,19048
+PE,Analfabeto,70 anos ou mais,150045
+PE,Fundamental completo,70 anos ou mais,35647
+PE,Fundamental incompleto,70 anos ou mais,148441
+PE,Lê e escreve,70 anos ou mais,208216
+PE,Médio completo,70 anos ou mais,84558
+PE,Médio incompleto,70 anos ou mais,17676
+PE,Não informado,70 anos ou mais,246
+PE,Superior completo,70 anos ou mais,69117
+PE,Superior incompleto,70 anos ou mais,9326
+PE,Analfabeto,Não informado,37
+PE,Fundamental completo,Não informado,10
+PE,Fundamental incompleto,Não informado,41
+PE,Lê e escreve,Não informado,25
+PE,Médio completo,Não informado,12
+PE,Médio incompleto,Não informado,4
+PE,Superior completo,Não informado,1
+PI,Analfabeto,16 e 17 anos,155
+PI,Fundamental completo,16 e 17 anos,1131
+PI,Fundamental incompleto,16 e 17 anos,4958
+PI,Lê e escreve,16 e 17 anos,44
+PI,Médio completo,16 e 17 anos,816
+PI,Médio incompleto,16 e 17 anos,48133
+PI,Superior completo,16 e 17 anos,1
+PI,Superior incompleto,16 e 17 anos,188
+PI,Analfabeto,18 a 24 anos,1605
+PI,Fundamental completo,18 a 24 anos,13055
+PI,Fundamental incompleto,18 a 24 anos,48752
+PI,Lê e escreve,18 a 24 anos,1044
+PI,Médio completo,18 a 24 anos,81361
+PI,Médio incompleto,18 a 24 anos,167124
+PI,Superior completo,18 a 24 anos,1508
+PI,Superior incompleto,18 a 24 anos,22347
+PI,Analfabeto,25 a 34 anos,4443
+PI,Fundamental completo,25 a 34 anos,23400
+PI,Fundamental incompleto,25 a 34 anos,110581
+PI,Lê e escreve,25 a 34 anos,4427
+PI,Médio completo,25 a 34 anos,145954
+PI,Médio incompleto,25 a 34 anos,171009
+PI,Superior completo,25 a 34 anos,18365
+PI,Superior incompleto,25 a 34 anos,43688
+PI,Analfabeto,35 a 44 anos,15365
+PI,Fundamental completo,35 a 44 anos,32846
+PI,Fundamental incompleto,35 a 44 anos,139066
+PI,Lê e escreve,35 a 44 anos,28198
+PI,Médio completo,35 a 44 anos,161391
+PI,Médio incompleto,35 a 44 anos,60713
+PI,Superior completo,35 a 44 anos,69040
+PI,Superior incompleto,35 a 44 anos,33918
+PI,Analfabeto,45 a 59 anos,59413
+PI,Fundamental completo,45 a 59 anos,42097
+PI,Fundamental incompleto,45 a 59 anos,191417
+PI,Lê e escreve,45 a 59 anos,111827
+PI,Médio completo,45 a 59 anos,128218
+PI,Médio incompleto,45 a 59 anos,37112
+PI,Não informado,45 a 59 anos,1
+PI,Superior completo,45 a 59 anos,71667
+PI,Superior incompleto,45 a 59 anos,15792
+PI,Analfabeto,60 a 69 anos,46808
+PI,Fundamental completo,60 a 69 anos,20603
+PI,Fundamental incompleto,60 a 69 anos,68276
+PI,Lê e escreve,60 a 69 anos,88234
+PI,Médio completo,60 a 69 anos,44395
+PI,Médio incompleto,60 a 69 anos,10996
+PI,Superior completo,60 a 69 anos,27079
+PI,Superior incompleto,60 a 69 anos,4059
+PI,Analfabeto,70 anos ou mais,80778
+PI,Fundamental completo,70 anos ou mais,11838
+PI,Fundamental incompleto,70 anos ou mais,38549
+PI,Lê e escreve,70 anos ou mais,109086
+PI,Médio completo,70 anos ou mais,24960
+PI,Médio incompleto,70 anos ou mais,4478
+PI,Não informado,70 anos ou mais,1
+PI,Superior completo,70 anos ou mais,14762
+PI,Superior incompleto,70 anos ou mais,1633
+PI,Analfabeto,Não informado,16
+PI,Fundamental completo,Não informado,1
+PI,Fundamental incompleto,Não informado,14
+PI,Lê e escreve,Não informado,13
+PI,Médio completo,Não informado,4
+PI,Médio incompleto,Não informado,2
+PI,Superior completo,Não informado,1
+PR,Analfabeto,16 e 17 anos,116
+PR,Fundamental completo,16 e 17 anos,660
+PR,Fundamental incompleto,16 e 17 anos,2159
+PR,Lê e escreve,16 e 17 anos,48
+PR,Médio completo,16 e 17 anos,3778
+PR,Médio incompleto,16 e 17 anos,69990
+PR,Superior completo,16 e 17 anos,12
+PR,Superior incompleto,16 e 17 anos,2032
+PR,Analfabeto,18 a 24 anos,1781
+PR,Fundamental completo,18 a 24 anos,21552
+PR,Fundamental incompleto,18 a 24 anos,40838
+PR,Lê e escreve,18 a 24 anos,1299
+PR,Médio completo,18 a 24 anos,320037
+PR,Médio incompleto,18 a 24 anos,372467
+PR,Superior completo,18 a 24 anos,6337
+PR,Superior incompleto,18 a 24 anos,119832
+PR,Analfabeto,25 a 34 anos,4235
+PR,Fundamental completo,25 a 34 anos,67288
+PR,Fundamental incompleto,25 a 34 anos,141951
+PR,Lê e escreve,25 a 34 anos,2719
+PR,Médio completo,25 a 34 anos,588051
+PR,Médio incompleto,25 a 34 anos,409623
+PR,Superior completo,25 a 34 anos,126757
+PR,Superior incompleto,25 a 34 anos,265045
+PR,Analfabeto,35 a 44 anos,6900
+PR,Fundamental completo,35 a 44 anos,99851
+PR,Fundamental incompleto,35 a 44 anos,197759
+PR,Lê e escreve,35 a 44 anos,8391
+PR,Médio completo,35 a 44 anos,591472
+PR,Médio incompleto,35 a 44 anos,198551
+PR,Superior completo,35 a 44 anos,385188
+PR,Superior incompleto,35 a 44 anos,152240
+PR,Analfabeto,45 a 59 anos,34542
+PR,Fundamental completo,45 a 59 anos,205495
+PR,Fundamental incompleto,45 a 59 anos,623931
+PR,Lê e escreve,45 a 59 anos,65710
+PR,Médio completo,45 a 59 anos,634277
+PR,Médio incompleto,45 a 59 anos,163862
+PR,Não informado,45 a 59 anos,20
+PR,Superior completo,45 a 59 anos,440168
+PR,Superior incompleto,45 a 59 anos,88258
+PR,Analfabeto,60 a 69 anos,44750
+PR,Fundamental completo,60 a 69 anos,126048
+PR,Fundamental incompleto,60 a 69 anos,429845
+PR,Lê e escreve,60 a 69 anos,86194
+PR,Médio completo,60 a 69 anos,245711
+PR,Médio incompleto,60 a 69 anos,59383
+PR,Não informado,60 a 69 anos,32
+PR,Superior completo,60 a 69 anos,171746
+PR,Superior incompleto,60 a 69 anos,31203
+PR,Analfabeto,70 anos ou mais,81979
+PR,Fundamental completo,70 anos ou mais,82110
+PR,Fundamental incompleto,70 anos ou mais,376875
+PR,Lê e escreve,70 anos ou mais,144387
+PR,Médio completo,70 anos ou mais,119396
+PR,Médio incompleto,70 anos ou mais,26808
+PR,Não informado,70 anos ou mais,38
+PR,Superior completo,70 anos ou mais,102829
+PR,Superior incompleto,70 anos ou mais,15487
+PR,Analfabeto,Não informado,8
+PR,Fundamental completo,Não informado,2
+PR,Fundamental incompleto,Não informado,11
+PR,Lê e escreve,Não informado,6
+PR,Médio completo,Não informado,4
+PR,Médio incompleto,Não informado,2
+RJ,Analfabeto,16 e 17 anos,165
+RJ,Fundamental completo,16 e 17 anos,1735
+RJ,Fundamental incompleto,16 e 17 anos,5013
+RJ,Lê e escreve,16 e 17 anos,64
+RJ,Médio completo,16 e 17 anos,1912
+RJ,Médio incompleto,16 e 17 anos,58805
+RJ,Superior completo,16 e 17 anos,5
+RJ,Superior incompleto,16 e 17 anos,317
+RJ,Analfabeto,18 a 24 anos,3320
+RJ,Fundamental completo,18 a 24 anos,43978
+RJ,Fundamental incompleto,18 a 24 anos,87027
+RJ,Lê e escreve,18 a 24 anos,3673
+RJ,Médio completo,18 a 24 anos,443455
+RJ,Médio incompleto,18 a 24 anos,593141
+RJ,Superior completo,18 a 24 anos,3125
+RJ,Superior incompleto,18 a 24 anos,63230
+RJ,Analfabeto,25 a 34 anos,7320
+RJ,Fundamental completo,25 a 34 anos,69014
+RJ,Fundamental incompleto,25 a 34 anos,313666
+RJ,Lê e escreve,25 a 34 anos,5628
+RJ,Médio completo,25 a 34 anos,710266
+RJ,Médio incompleto,25 a 34 anos,944059
+RJ,Superior completo,25 a 34 anos,82785
+RJ,Superior incompleto,25 a 34 anos,181553
+RJ,Analfabeto,35 a 44 anos,11343
+RJ,Fundamental completo,35 a 44 anos,106963
+RJ,Fundamental incompleto,35 a 44 anos,458129
+RJ,Lê e escreve,35 a 44 anos,15979
+RJ,Médio completo,35 a 44 anos,635801
+RJ,Médio incompleto,35 a 44 anos,684854
+RJ,Superior completo,35 a 44 anos,247282
+RJ,Superior incompleto,35 a 44 anos,153567
+RJ,Analfabeto,45 a 59 anos,50784
+RJ,Fundamental completo,45 a 59 anos,279168
+RJ,Fundamental incompleto,45 a 59 anos,1041471
+RJ,Lê e escreve,45 a 59 anos,121753
+RJ,Médio completo,45 a 59 anos,747634
+RJ,Médio incompleto,45 a 59 anos,495688
+RJ,Não informado,45 a 59 anos,392
+RJ,Superior completo,45 a 59 anos,388406
+RJ,Superior incompleto,45 a 59 anos,138291
+RJ,Analfabeto,60 a 69 anos,48854
+RJ,Fundamental completo,60 a 69 anos,237573
+RJ,Fundamental incompleto,60 a 69 anos,487860
+RJ,Lê e escreve,60 a 69 anos,161800
+RJ,Médio completo,60 a 69 anos,425459
+RJ,Médio incompleto,60 a 69 anos,127191
+RJ,Não informado,60 a 69 anos,2794
+RJ,Superior completo,60 a 69 anos,237751
+RJ,Superior incompleto,60 a 69 anos,87606
+RJ,Analfabeto,70 anos ou mais,105690
+RJ,Fundamental completo,70 anos ou mais,259976
+RJ,Fundamental incompleto,70 anos ou mais,479092
+RJ,Lê e escreve,70 anos ou mais,322417
+RJ,Médio completo,70 anos ou mais,298020
+RJ,Médio incompleto,70 anos ou mais,66259
+RJ,Não informado,70 anos ou mais,7456
+RJ,Superior completo,70 anos ou mais,257763
+RJ,Superior incompleto,70 anos ou mais,42981
+RJ,Analfabeto,Não informado,14
+RJ,Fundamental completo,Não informado,8
+RJ,Fundamental incompleto,Não informado,36
+RJ,Lê e escreve,Não informado,14
+RJ,Médio completo,Não informado,6
+RJ,Médio incompleto,Não informado,5
+RJ,Superior completo,Não informado,1
+RJ,Superior incompleto,Não informado,1
+RN,Analfabeto,16 e 17 anos,85
+RN,Fundamental completo,16 e 17 anos,499
+RN,Fundamental incompleto,16 e 17 anos,5239
+RN,Lê e escreve,16 e 17 anos,20
+RN,Médio completo,16 e 17 anos,326
+RN,Médio incompleto,16 e 17 anos,31350
+RN,Superior completo,16 e 17 anos,1
+RN,Superior incompleto,16 e 17 anos,105
+RN,Analfabeto,18 a 24 anos,1444
+RN,Fundamental completo,18 a 24 anos,9759
+RN,Fundamental incompleto,18 a 24 anos,52179
+RN,Lê e escreve,18 a 24 anos,1246
+RN,Médio completo,18 a 24 anos,63744
+RN,Médio incompleto,18 a 24 anos,160440
+RN,Superior completo,18 a 24 anos,1004
+RN,Superior incompleto,18 a 24 anos,16226
+RN,Analfabeto,25 a 34 anos,3870
+RN,Fundamental completo,25 a 34 anos,16696
+RN,Fundamental incompleto,25 a 34 anos,112854
+RN,Lê e escreve,25 a 34 anos,3606
+RN,Médio completo,25 a 34 anos,149471
+RN,Médio incompleto,25 a 34 anos,162011
+RN,Superior completo,25 a 34 anos,18597
+RN,Superior incompleto,25 a 34 anos,48489
+RN,Analfabeto,35 a 44 anos,9922
+RN,Fundamental completo,35 a 44 anos,20970
+RN,Fundamental incompleto,35 a 44 anos,129730
+RN,Lê e escreve,35 a 44 anos,13540
+RN,Médio completo,35 a 44 anos,182092
+RN,Médio incompleto,35 a 44 anos,66492
+RN,Superior completo,35 a 44 anos,75456
+RN,Superior incompleto,35 a 44 anos,40456
+RN,Analfabeto,45 a 59 anos,44865
+RN,Fundamental completo,45 a 59 anos,31685
+RN,Fundamental incompleto,45 a 59 anos,201385
+RN,Lê e escreve,45 a 59 anos,67304
+RN,Médio completo,45 a 59 anos,167811
+RN,Médio incompleto,45 a 59 anos,49412
+RN,Superior completo,45 a 59 anos,82120
+RN,Superior incompleto,45 a 59 anos,20640
+RN,Analfabeto,60 a 69 anos,35857
+RN,Fundamental completo,60 a 69 anos,17882
+RN,Fundamental incompleto,60 a 69 anos,85275
+RN,Lê e escreve,60 a 69 anos,63591
+RN,Médio completo,60 a 69 anos,61102
+RN,Médio incompleto,60 a 69 anos,16362
+RN,Superior completo,60 a 69 anos,35900
+RN,Superior incompleto,60 a 69 anos,5684
+RN,Analfabeto,70 anos ou mais,55633
+RN,Fundamental completo,70 anos ou mais,13238
+RN,Fundamental incompleto,70 anos ou mais,57640
+RN,Lê e escreve,70 anos ou mais,85606
+RN,Médio completo,70 anos ou mais,31007
+RN,Médio incompleto,70 anos ou mais,6809
+RN,Não informado,70 anos ou mais,8
+RN,Superior completo,70 anos ou mais,23499
+RN,Superior incompleto,70 anos ou mais,2662
+RN,Analfabeto,Não informado,15
+RN,Fundamental completo,Não informado,4
+RN,Fundamental incompleto,Não informado,18
+RN,Lê e escreve,Não informado,8
+RN,Médio completo,Não informado,3
+RN,Médio incompleto,Não informado,2
+RN,Superior incompleto,Não informado,1
+RO,Analfabeto,16 e 17 anos,35
+RO,Fundamental completo,16 e 17 anos,254
+RO,Fundamental incompleto,16 e 17 anos,1501
+RO,Lê e escreve,16 e 17 anos,7
+RO,Médio completo,16 e 17 anos,625
+RO,Médio incompleto,16 e 17 anos,23002
+RO,Superior completo,16 e 17 anos,2
+RO,Superior incompleto,16 e 17 anos,210
+RO,Analfabeto,18 a 24 anos,455
+RO,Fundamental completo,18 a 24 anos,4165
+RO,Fundamental incompleto,18 a 24 anos,13810
+RO,Lê e escreve,18 a 24 anos,321
+RO,Médio completo,18 a 24 anos,43338
+RO,Médio incompleto,18 a 24 anos,78291
+RO,Superior completo,18 a 24 anos,937
+RO,Superior incompleto,18 a 24 anos,13312
+RO,Analfabeto,25 a 34 anos,1085
+RO,Fundamental completo,25 a 34 anos,10994
+RO,Fundamental incompleto,25 a 34 anos,40628
+RO,Lê e escreve,25 a 34 anos,1084
+RO,Médio completo,25 a 34 anos,80224
+RO,Médio incompleto,25 a 34 anos,77157
+RO,Superior completo,25 a 34 anos,16349
+RO,Superior incompleto,25 a 34 anos,28054
+RO,Analfabeto,35 a 44 anos,2148
+RO,Fundamental completo,35 a 44 anos,15011
+RO,Fundamental incompleto,35 a 44 anos,57333
+RO,Lê e escreve,35 a 44 anos,5104
+RO,Médio completo,35 a 44 anos,85859
+RO,Médio incompleto,35 a 44 anos,28121
+RO,Superior completo,35 a 44 anos,41922
+RO,Superior incompleto,35 a 44 anos,23489
+RO,Analfabeto,45 a 59 anos,9970
+RO,Fundamental completo,45 a 59 anos,20953
+RO,Fundamental incompleto,45 a 59 anos,112355
+RO,Lê e escreve,45 a 59 anos,27612
+RO,Médio completo,45 a 59 anos,76905
+RO,Médio incompleto,45 a 59 anos,19690
+RO,Superior completo,45 a 59 anos,45292
+RO,Superior incompleto,45 a 59 anos,12074
+RO,Analfabeto,60 a 69 anos,12996
+RO,Fundamental completo,60 a 69 anos,10302
+RO,Fundamental incompleto,60 a 69 anos,52360
+RO,Lê e escreve,60 a 69 anos,25722
+RO,Médio completo,60 a 69 anos,22358
+RO,Médio incompleto,60 a 69 anos,5486
+RO,Superior completo,60 a 69 anos,15145
+RO,Superior incompleto,60 a 69 anos,2176
+RO,Analfabeto,70 anos ou mais,21033
+RO,Fundamental completo,70 anos ou mais,5307
+RO,Fundamental incompleto,70 anos ou mais,29540
+RO,Lê e escreve,70 anos ou mais,29771
+RO,Médio completo,70 anos ou mais,8356
+RO,Médio incompleto,70 anos ou mais,1988
+RO,Superior completo,70 anos ou mais,5715
+RO,Superior incompleto,70 anos ou mais,701
+RO,Analfabeto,Não informado,4
+RO,Fundamental completo,Não informado,1
+RO,Fundamental incompleto,Não informado,11
+RO,Lê e escreve,Não informado,7
+RO,Médio completo,Não informado,7
+RO,Médio incompleto,Não informado,3
+RR,Analfabeto,16 e 17 anos,18
+RR,Fundamental completo,16 e 17 anos,221
+RR,Fundamental incompleto,16 e 17 anos,1360
+RR,Lê e escreve,16 e 17 anos,22
+RR,Médio completo,16 e 17 anos,173
+RR,Médio incompleto,16 e 17 anos,9775
+RR,Superior completo,16 e 17 anos,1
+RR,Superior incompleto,16 e 17 anos,61
+RR,Analfabeto,18 a 24 anos,178
+RR,Fundamental completo,18 a 24 anos,1964
+RR,Fundamental incompleto,18 a 24 anos,5484
+RR,Lê e escreve,18 a 24 anos,234
+RR,Médio completo,18 a 24 anos,17067
+RR,Médio incompleto,18 a 24 anos,33984
+RR,Superior completo,18 a 24 anos,276
+RR,Superior incompleto,18 a 24 anos,3365
+RR,Analfabeto,25 a 34 anos,335
+RR,Fundamental completo,25 a 34 anos,3190
+RR,Fundamental incompleto,25 a 34 anos,10992
+RR,Lê e escreve,25 a 34 anos,489
+RR,Médio completo,25 a 34 anos,31153
+RR,Médio incompleto,25 a 34 anos,32200
+RR,Superior completo,25 a 34 anos,4198
+RR,Superior incompleto,25 a 34 anos,9977
+RR,Analfabeto,35 a 44 anos,563
+RR,Fundamental completo,35 a 44 anos,3809
+RR,Fundamental incompleto,35 a 44 anos,11403
+RR,Lê e escreve,35 a 44 anos,1383
+RR,Médio completo,35 a 44 anos,32933
+RR,Médio incompleto,35 a 44 anos,7417
+RR,Superior completo,35 a 44 anos,14597
+RR,Superior incompleto,35 a 44 anos,9836
+RR,Analfabeto,45 a 59 anos,2347
+RR,Fundamental completo,45 a 59 anos,5604
+RR,Fundamental incompleto,45 a 59 anos,21707
+RR,Lê e escreve,45 a 59 anos,5796
+RR,Médio completo,45 a 59 anos,27426
+RR,Médio incompleto,45 a 59 anos,4916
+RR,Superior completo,45 a 59 anos,17080
+RR,Superior incompleto,45 a 59 anos,5596
+RR,Analfabeto,60 a 69 anos,2235
+RR,Fundamental completo,60 a 69 anos,2935
+RR,Fundamental incompleto,60 a 69 anos,10478
+RR,Lê e escreve,60 a 69 anos,5565
+RR,Médio completo,60 a 69 anos,7668
+RR,Médio incompleto,60 a 69 anos,1389
+RR,Superior completo,60 a 69 anos,5022
+RR,Superior incompleto,60 a 69 anos,978
+RR,Analfabeto,70 anos ou mais,4243
+RR,Fundamental completo,70 anos ou mais,1930
+RR,Fundamental incompleto,70 anos ou mais,6733
+RR,Lê e escreve,70 anos ou mais,7371
+RR,Médio completo,70 anos ou mais,3103
+RR,Médio incompleto,70 anos ou mais,616
+RR,Superior completo,70 anos ou mais,1841
+RR,Superior incompleto,70 anos ou mais,330
+RR,Fundamental incompleto,Não informado,1
+RR,Médio completo,Não informado,2
+RR,Médio incompleto,Não informado,3
+RS,Analfabeto,16 e 17 anos,100
+RS,Fundamental completo,16 e 17 anos,1006
+RS,Fundamental incompleto,16 e 17 anos,2609
+RS,Lê e escreve,16 e 17 anos,30
+RS,Médio completo,16 e 17 anos,709
+RS,Médio incompleto,16 e 17 anos,50236
+RS,Superior completo,16 e 17 anos,2
+RS,Superior incompleto,16 e 17 anos,282
+RS,Analfabeto,18 a 24 anos,1568
+RS,Fundamental completo,18 a 24 anos,38359
+RS,Fundamental incompleto,18 a 24 anos,50804
+RS,Lê e escreve,18 a 24 anos,1136
+RS,Médio completo,18 a 24 anos,220500
+RS,Médio incompleto,18 a 24 anos,382541
+RS,Superior completo,18 a 24 anos,2686
+RS,Superior incompleto,18 a 24 anos,55036
+RS,Analfabeto,25 a 34 anos,3655
+RS,Fundamental completo,25 a 34 anos,90391
+RS,Fundamental incompleto,25 a 34 anos,180832
+RS,Lê e escreve,25 a 34 anos,1785
+RS,Médio completo,25 a 34 anos,427831
+RS,Médio incompleto,25 a 34 anos,486454
+RS,Superior completo,25 a 34 anos,78656
+RS,Superior incompleto,25 a 34 anos,197260
+RS,Analfabeto,35 a 44 anos,5944
+RS,Fundamental completo,35 a 44 anos,127052
+RS,Fundamental incompleto,35 a 44 anos,247721
+RS,Lê e escreve,35 a 44 anos,4688
+RS,Médio completo,35 a 44 anos,480663
+RS,Médio incompleto,35 a 44 anos,284180
+RS,Superior completo,35 a 44 anos,267874
+RS,Superior incompleto,35 a 44 anos,161666
+RS,Analfabeto,45 a 59 anos,28134
+RS,Fundamental completo,45 a 59 anos,215246
+RS,Fundamental incompleto,45 a 59 anos,704614
+RS,Lê e escreve,45 a 59 anos,38846
+RS,Médio completo,45 a 59 anos,512281
+RS,Médio incompleto,45 a 59 anos,195728
+RS,Não informado,45 a 59 anos,24
+RS,Superior completo,45 a 59 anos,311175
+RS,Superior incompleto,45 a 59 anos,122980
+RS,Analfabeto,60 a 69 anos,30590
+RS,Fundamental completo,60 a 69 anos,153070
+RS,Fundamental incompleto,60 a 69 anos,541057
+RS,Lê e escreve,60 a 69 anos,52051
+RS,Médio completo,60 a 69 anos,233988
+RS,Médio incompleto,60 a 69 anos,76643
+RS,Não informado,60 a 69 anos,193
+RS,Superior completo,60 a 69 anos,156609
+RS,Superior incompleto,60 a 69 anos,61059
+RS,Analfabeto,70 anos ou mais,72502
+RS,Fundamental completo,70 anos ou mais,134669
+RS,Fundamental incompleto,70 anos ou mais,549356
+RS,Lê e escreve,70 anos ou mais,123243
+RS,Médio completo,70 anos ou mais,144545
+RS,Médio incompleto,70 anos ou mais,48361
+RS,Não informado,70 anos ou mais,637
+RS,Superior completo,70 anos ou mais,133869
+RS,Superior incompleto,70 anos ou mais,30777
+RS,Fundamental incompleto,Não informado,1
+RS,Médio incompleto,Não informado,1
+SC,Analfabeto,16 e 17 anos,46
+SC,Fundamental completo,16 e 17 anos,622
+SC,Fundamental incompleto,16 e 17 anos,2045
+SC,Lê e escreve,16 e 17 anos,9
+SC,Médio completo,16 e 17 anos,1059
+SC,Médio incompleto,16 e 17 anos,41145
+SC,Superior completo,16 e 17 anos,2
+SC,Superior incompleto,16 e 17 anos,370
+SC,Analfabeto,18 a 24 anos,772
+SC,Fundamental completo,18 a 24 anos,21092
+SC,Fundamental incompleto,18 a 24 anos,25887
+SC,Lê e escreve,18 a 24 anos,537
+SC,Médio completo,18 a 24 anos,181735
+SC,Médio incompleto,18 a 24 anos,273028
+SC,Superior completo,18 a 24 anos,3943
+SC,Superior incompleto,18 a 24 anos,62757
+SC,Analfabeto,25 a 34 anos,1591
+SC,Fundamental completo,25 a 34 anos,64244
+SC,Fundamental incompleto,25 a 34 anos,70940
+SC,Lê e escreve,25 a 34 anos,954
+SC,Médio completo,25 a 34 anos,378837
+SC,Médio incompleto,25 a 34 anos,281377
+SC,Superior completo,25 a 34 anos,101402
+SC,Superior incompleto,25 a 34 anos,182473
+SC,Analfabeto,35 a 44 anos,2892
+SC,Fundamental completo,35 a 44 anos,85711
+SC,Fundamental incompleto,35 a 44 anos,128007
+SC,Lê e escreve,35 a 44 anos,4263
+SC,Médio completo,35 a 44 anos,391224
+SC,Médio incompleto,35 a 44 anos,165373
+SC,Superior completo,35 a 44 anos,288673
+SC,Superior incompleto,35 a 44 anos,112589
+SC,Analfabeto,45 a 59 anos,15056
+SC,Fundamental completo,45 a 59 anos,163451
+SC,Fundamental incompleto,45 a 59 anos,408111
+SC,Lê e escreve,45 a 59 anos,34400
+SC,Médio completo,45 a 59 anos,392209
+SC,Médio incompleto,45 a 59 anos,106260
+SC,Superior completo,45 a 59 anos,287620
+SC,Superior incompleto,45 a 59 anos,71375
+SC,Analfabeto,60 a 69 anos,16408
+SC,Fundamental completo,60 a 69 anos,111782
+SC,Fundamental incompleto,60 a 69 anos,292991
+SC,Lê e escreve,60 a 69 anos,40880
+SC,Médio completo,60 a 69 anos,156641
+SC,Médio incompleto,60 a 69 anos,35475
+SC,Não informado,60 a 69 anos,2
+SC,Superior completo,60 a 69 anos,105521
+SC,Superior incompleto,60 a 69 anos,23185
+SC,Analfabeto,70 anos ou mais,27310
+SC,Fundamental completo,70 anos ou mais,57021
+SC,Fundamental incompleto,70 anos ou mais,269548
+SC,Lê e escreve,70 anos ou mais,74976
+SC,Médio completo,70 anos ou mais,72787
+SC,Médio incompleto,70 anos ou mais,15928
+SC,Não informado,70 anos ou mais,6
+SC,Superior completo,70 anos ou mais,60507
+SC,Superior incompleto,70 anos ou mais,10927
+SC,Analfabeto,Não informado,2
+SC,Fundamental incompleto,Não informado,11
+SC,Lê e escreve,Não informado,5
+SC,Médio completo,Não informado,1
+SC,Médio incompleto,Não informado,3
+SE,Analfabeto,16 e 17 anos,66
+SE,Fundamental completo,16 e 17 anos,347
+SE,Fundamental incompleto,16 e 17 anos,2386
+SE,Lê e escreve,16 e 17 anos,16
+SE,Médio completo,16 e 17 anos,518
+SE,Médio incompleto,16 e 17 anos,19739
+SE,Superior incompleto,16 e 17 anos,103
+SE,Analfabeto,18 a 24 anos,709
+SE,Fundamental completo,18 a 24 anos,6406
+SE,Fundamental incompleto,18 a 24 anos,39763
+SE,Lê e escreve,18 a 24 anos,618
+SE,Médio completo,18 a 24 anos,50609
+SE,Médio incompleto,18 a 24 anos,105530
+SE,Superior completo,18 a 24 anos,604
+SE,Superior incompleto,18 a 24 anos,10545
+SE,Analfabeto,25 a 34 anos,1978
+SE,Fundamental completo,25 a 34 anos,10585
+SE,Fundamental incompleto,25 a 34 anos,108701
+SE,Lê e escreve,25 a 34 anos,2803
+SE,Médio completo,25 a 34 anos,70470
+SE,Médio incompleto,25 a 34 anos,127816
+SE,Superior completo,25 a 34 anos,9773
+SE,Superior incompleto,25 a 34 anos,25906
+SE,Analfabeto,35 a 44 anos,6143
+SE,Fundamental completo,35 a 44 anos,14026
+SE,Fundamental incompleto,35 a 44 anos,96093
+SE,Lê e escreve,35 a 44 anos,11485
+SE,Médio completo,35 a 44 anos,111087
+SE,Médio incompleto,35 a 44 anos,43314
+SE,Superior completo,35 a 44 anos,37432
+SE,Superior incompleto,35 a 44 anos,33128
+SE,Analfabeto,45 a 59 anos,27653
+SE,Fundamental completo,45 a 59 anos,21806
+SE,Fundamental incompleto,45 a 59 anos,143608
+SE,Lê e escreve,45 a 59 anos,50764
+SE,Médio completo,45 a 59 anos,102874
+SE,Médio incompleto,45 a 59 anos,28005
+SE,Superior completo,45 a 59 anos,50533
+SE,Superior incompleto,45 a 59 anos,16004
+SE,Analfabeto,60 a 69 anos,19928
+SE,Fundamental completo,60 a 69 anos,11162
+SE,Fundamental incompleto,60 a 69 anos,56564
+SE,Lê e escreve,60 a 69 anos,39275
+SE,Médio completo,60 a 69 anos,33108
+SE,Médio incompleto,60 a 69 anos,8395
+SE,Superior completo,60 a 69 anos,20400
+SE,Superior incompleto,60 a 69 anos,4162
+SE,Analfabeto,70 anos ou mais,30614
+SE,Fundamental completo,70 anos ou mais,7287
+SE,Fundamental incompleto,70 anos ou mais,34672
+SE,Lê e escreve,70 anos ou mais,49476
+SE,Médio completo,70 anos ou mais,17072
+SE,Médio incompleto,70 anos ou mais,3580
+SE,Superior completo,70 anos ou mais,12708
+SE,Superior incompleto,70 anos ou mais,1883
+SE,Fundamental completo,Não informado,3
+SE,Fundamental incompleto,Não informado,2
+SE,Lê e escreve,Não informado,1
+SE,Médio completo,Não informado,2
+SP,Analfabeto,16 e 17 anos,309
+SP,Fundamental completo,16 e 17 anos,2572
+SP,Fundamental incompleto,16 e 17 anos,3704
+SP,Lê e escreve,16 e 17 anos,65
+SP,Médio completo,16 e 17 anos,3493
+SP,Médio incompleto,16 e 17 anos,170102
+SP,Superior completo,16 e 17 anos,9
+SP,Superior incompleto,16 e 17 anos,1081
+SP,Analfabeto,18 a 24 anos,6415
+SP,Fundamental completo,18 a 24 anos,91472
+SP,Fundamental incompleto,18 a 24 anos,77730
+SP,Lê e escreve,18 a 24 anos,7133
+SP,Médio completo,18 a 24 anos,1550134
+SP,Médio incompleto,18 a 24 anos,1429013
+SP,Superior completo,18 a 24 anos,17971
+SP,Superior incompleto,18 a 24 anos,279053
+SP,Analfabeto,25 a 34 anos,16409
+SP,Fundamental completo,25 a 34 anos,167299
+SP,Fundamental incompleto,25 a 34 anos,295914
+SP,Lê e escreve,25 a 34 anos,6111
+SP,Médio completo,25 a 34 anos,2763651
+SP,Médio incompleto,25 a 34 anos,1660769
+SP,Superior completo,25 a 34 anos,514449
+SP,Superior incompleto,25 a 34 anos,715286
+SP,Analfabeto,35 a 44 anos,29490
+SP,Fundamental completo,35 a 44 anos,290808
+SP,Fundamental incompleto,35 a 44 anos,610147
+SP,Lê e escreve,35 a 44 anos,25343
+SP,Médio completo,35 a 44 anos,2644922
+SP,Médio incompleto,35 a 44 anos,1186151
+SP,Superior completo,35 a 44 anos,1479626
+SP,Superior incompleto,35 a 44 anos,456242
+SP,Analfabeto,45 a 59 anos,134679
+SP,Fundamental completo,45 a 59 anos,732389
+SP,Fundamental incompleto,45 a 59 anos,2161043
+SP,Lê e escreve,45 a 59 anos,214050
+SP,Médio completo,45 a 59 anos,2805321
+SP,Médio incompleto,45 a 59 anos,890466
+SP,Superior completo,45 a 59 anos,1765986
+SP,Superior incompleto,45 a 59 anos,373550
+SP,Analfabeto,60 a 69 anos,140653
+SP,Fundamental completo,60 a 69 anos,523485
+SP,Fundamental incompleto,60 a 69 anos,1436691
+SP,Lê e escreve,60 a 69 anos,249856
+SP,Médio completo,60 a 69 anos,1081632
+SP,Médio incompleto,60 a 69 anos,232031
+SP,Não informado,60 a 69 anos,2
+SP,Superior completo,60 a 69 anos,785493
+SP,Superior incompleto,60 a 69 anos,177231
+SP,Analfabeto,70 anos ou mais,246222
+SP,Fundamental completo,70 anos ou mais,456685
+SP,Fundamental incompleto,70 anos ou mais,1393405
+SP,Lê e escreve,70 anos ou mais,468199
+SP,Médio completo,70 anos ou mais,557198
+SP,Médio incompleto,70 anos ou mais,116815
+SP,Superior completo,70 anos ou mais,569818
+SP,Superior incompleto,70 anos ou mais,89412
+SP,Analfabeto,Não informado,38
+SP,Fundamental completo,Não informado,14
+SP,Fundamental incompleto,Não informado,53
+SP,Lê e escreve,Não informado,27
+SP,Médio completo,Não informado,11
+SP,Médio incompleto,Não informado,3
+SP,Superior completo,Não informado,1
+TO,Analfabeto,16 e 17 anos,26
+TO,Fundamental completo,16 e 17 anos,326
+TO,Fundamental incompleto,16 e 17 anos,1490
+TO,Lê e escreve,16 e 17 anos,6
+TO,Médio completo,16 e 17 anos,421
+TO,Médio incompleto,16 e 17 anos,21612
+TO,Superior completo,16 e 17 anos,2
+TO,Superior incompleto,16 e 17 anos,146
+TO,Analfabeto,18 a 24 anos,493
+TO,Fundamental completo,18 a 24 anos,3310
+TO,Fundamental incompleto,18 a 24 anos,16265
+TO,Lê e escreve,18 a 24 anos,240
+TO,Médio completo,18 a 24 anos,39383
+TO,Médio incompleto,18 a 24 anos,89279
+TO,Superior completo,18 a 24 anos,945
+TO,Superior incompleto,18 a 24 anos,12313
+TO,Analfabeto,25 a 34 anos,1135
+TO,Fundamental completo,25 a 34 anos,7432
+TO,Fundamental incompleto,25 a 34 anos,29445
+TO,Lê e escreve,25 a 34 anos,759
+TO,Médio completo,25 a 34 anos,83264
+TO,Médio incompleto,25 a 34 anos,76654
+TO,Superior completo,25 a 34 anos,15221
+TO,Superior incompleto,25 a 34 anos,27010
+TO,Analfabeto,35 a 44 anos,3153
+TO,Fundamental completo,35 a 44 anos,11228
+TO,Fundamental incompleto,35 a 44 anos,42921
+TO,Lê e escreve,35 a 44 anos,4444
+TO,Médio completo,35 a 44 anos,88908
+TO,Médio incompleto,35 a 44 anos,25565
+TO,Superior completo,35 a 44 anos,40819
+TO,Superior incompleto,35 a 44 anos,20272
+TO,Analfabeto,45 a 59 anos,13566
+TO,Fundamental completo,45 a 59 anos,16528
+TO,Fundamental incompleto,45 a 59 anos,77481
+TO,Lê e escreve,45 a 59 anos,23518
+TO,Médio completo,45 a 59 anos,80295
+TO,Médio incompleto,45 a 59 anos,16523
+TO,Superior completo,45 a 59 anos,51785
+TO,Superior incompleto,45 a 59 anos,10568
+TO,Analfabeto,60 a 69 anos,13503
+TO,Fundamental completo,60 a 69 anos,8074
+TO,Fundamental incompleto,60 a 69 anos,35726
+TO,Lê e escreve,60 a 69 anos,22903
+TO,Médio completo,60 a 69 anos,21817
+TO,Médio incompleto,60 a 69 anos,4233
+TO,Superior completo,60 a 69 anos,15780
+TO,Superior incompleto,60 a 69 anos,1977
+TO,Analfabeto,70 anos ou mais,25272
+TO,Fundamental completo,70 anos ou mais,4830
+TO,Fundamental incompleto,70 anos ou mais,23200
+TO,Lê e escreve,70 anos ou mais,33362
+TO,Médio completo,70 anos ou mais,9089
+TO,Médio incompleto,70 anos ou mais,1539
+TO,Superior completo,70 anos ou mais,5966
+TO,Superior incompleto,70 anos ou mais,735
+TO,Analfabeto,Não informado,2
+TO,Fundamental completo,Não informado,1
+TO,Fundamental incompleto,Não informado,3
+TO,Lê e escreve,Não informado,3
+TO,Médio incompleto,Não informado,1
+TO,Superior incompleto,Não informado,1
